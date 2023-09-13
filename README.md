@@ -1,2 +1,4 @@
-# openbenches-tiles
-A repository to take open benches data and encode into tiles for consumption on a map
+# Open Benches tiles
+
+Taking open benches data and encoding into tiles for consumption on a map
+
