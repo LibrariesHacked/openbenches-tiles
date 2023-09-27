@@ -2,4 +2,4 @@ wget "https://openbenches.org/api/benches?truncated=false&media=true" -O benches
 rm -rf tiles
 mkdir tiles
 tippecanoe --no-tile-compression --output-to-directory tiles benches.json
-find . -name '*.pbf' -exec rename .pbf .mvt {} +
+find . -name '*.pbf' -exec sh -c 'mv "$0" "${0%.pbf}.mvt"' {} \;
