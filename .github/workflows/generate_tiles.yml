@@ -2,6 +2,8 @@ name: Generate tiles
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight
 
 jobs:
   build:
