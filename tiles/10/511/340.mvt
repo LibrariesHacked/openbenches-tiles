@@ -1,484 +1,514 @@
-„®x
+Ú•x
 benches(Ä 
-created_atpopupContentmedia"
-
-BRADFORD"
-2017-07-15T15:59:32+01:00"
-2017-07-24T14:19:35+01:00"
-2017-07-25T19:03:33+01:00"
-2017-07-26T23:02:48+01:00"
-2017-08-11T06:17:05+01:00"
-2017-08-20T15:47:29+01:00"
-2017-08-20T16:54:12+01:00"
-2017-08-20T18:56:12+01:00"
-2017-08-20T19:36:12+01:00"
-2017-08-24T20:11:24+01:00"
-2017-08-27T19:46:01+01:00"
-2017-09-17T19:11:17+01:00"
-2017-11-30T09:15:05+00:00"
-2017-12-31T09:06:19+00:00"
-2018-02-13T15:47:01+00:00"
-2018-03-16T09:14:12+00:00"
-2018-03-21T21:28:24+00:00"
-2018-04-01T17:05:23+01:00"
-2018-04-06T19:32:59+01:00"
-2018-04-06T21:39:37+01:00"
-2018-04-10T11:11:19+01:00"
-2018-04-10T19:27:44+01:00"
-2018-04-12T12:12:41+01:00"
-2018-04-17T13:44:16+01:00"
-2018-05-07T12:08:29+01:00"
-2018-05-15T09:31:31+01:00"
-2018-05-15T13:55:27+01:00"
-2018-06-01T08:30:33+01:00"
-2018-06-02T16:21:01+01:00"
-2018-06-02T17:15:52+01:00"
-2018-06-02T18:10:01+01:00"
-2018-06-06T00:07:56+01:00"
-2018-06-06T00:16:09+01:00"
-2018-06-06T00:37:25+01:00"
-2018-06-06T01:13:54+01:00"
-2018-06-06T12:47:38+01:00"
-2018-06-06T22:07:32+01:00"
-2018-06-15T17:25:06+01:00"
-2018-06-30T18:23:10+01:00"
-2018-07-09T20:28:42+01:00"
-2018-07-20T20:43:32+01:00"
-2018-07-25T14:27:04+01:00"
-2018-09-17T17:03:41+01:00"
-2018-10-07T16:17:07+01:00"
-2018-12-06T16:28:47+00:00"
-2018-12-07T11:04:28+00:00"
-2018-12-09T01:57:12+00:00"
-2018-12-10T21:43:56+00:00"
-2019-06-04T14:07:44+01:00"
-2019-06-21T16:50:03+01:00"
-2019-06-28T16:42:14+01:00"
-2019-07-12T17:26:37+01:00"
-2019-08-21T10:20:41+01:00"
-2019-09-01T21:10:26+01:00"
-2019-10-27T22:11:03+00:00"
-2019-11-04T20:27:12+00:00"
-2019-11-05T21:27:41+00:00"
-2019-12-26T09:14:13+00:00"
-2020-03-01T16:58:36+00:00"
-2020-07-24T21:54:46+01:00"
-2020-07-27T16:03:45+01:00"
+created_atpopupContentmedia"
+IN MEMORY OF JOHN BAMBER"
+2017-07-25T19:41:42+01:00"
+2017-08-03T12:52:20+01:00"
+2017-08-17T21:28:54+01:00"
+2017-08-18T08:16:22+01:00"
+2017-08-20T15:21:10+01:00"
+2017-08-20T15:33:16+01:00"
+2017-08-20T17:05:18+01:00"
+2017-08-20T17:33:53+01:00"
+2017-08-20T19:07:26+01:00"
+2017-10-24T16:14:15+01:00"
+2018-02-14T00:28:50+00:00"
+2018-04-10T09:36:19+01:00"
+2018-04-10T10:07:50+01:00"
+2018-04-12T12:16:16+01:00"
+2018-04-13T09:26:47+01:00"
+2018-04-16T13:08:37+01:00"
+2018-04-17T10:15:00+01:00"
+2018-05-07T12:28:07+01:00"
+2018-05-15T08:18:17+01:00"
+2018-05-23T08:16:08+01:00"
+2018-06-01T09:00:33+01:00"
+2018-06-02T12:10:38+01:00"
+2018-06-02T16:53:52+01:00"
+2018-06-02T17:14:43+01:00"
+2018-06-05T23:54:38+01:00"
+2018-06-06T00:14:42+01:00"
+2018-06-06T00:23:35+01:00"
+2018-06-06T12:42:11+01:00"
+2018-06-06T12:54:35+01:00"
+2018-06-06T20:58:32+01:00"
+2018-06-06T21:55:46+01:00"
+2018-06-07T10:25:07+01:00"
+2018-06-07T10:41:22+01:00"
+2018-06-09T11:52:24+01:00"
+2018-06-15T17:38:01+01:00"
+2018-07-10T08:30:44+01:00"
+2018-10-07T16:07:07+01:00"
+2018-10-13T21:10:59+01:00"
+2018-11-21T15:23:03+00:00"
+2018-12-06T22:05:14+00:00"
+2018-12-07T16:31:08+00:00"
+2018-12-09T21:17:09+00:00"
+2019-01-05T12:43:11+00:00"
+2019-01-05T13:49:03+00:00"
+2019-01-28T09:17:23+00:00"
+2019-06-08T19:13:42+01:00"
+2019-09-01T21:13:56+01:00"
+2019-09-08T14:12:11+01:00"
+2019-11-05T21:00:22+00:00"
+2020-01-22T17:12:07+00:00"
+2020-02-09T17:00:59+00:00"
+2020-07-13T13:23:47+01:00"
+2020-07-24T21:36:27+01:00"
 2020-08-31T17:44:44+01:00"
-2020-10-25T17:29:46+00:00"
-2020-11-15T15:32:57+00:00"
-2020-11-22T11:25:39+00:00"
-2020-12-13T10:56:49+00:00"
-2021-07-10T16:40:57+01:00"
-2021-08-10T21:24:52+01:00"
-2021-09-06T21:03:50+01:00"
-2021-09-25T09:04:15+01:00"
-2022-04-02T17:45:08+01:00"
-2022-05-09T18:46:31+01:00"
-2022-06-19T11:38:32+01:00"
-2022-07-09T08:44:59+01:00"
-2022-09-22T13:32:04+01:00"
-2022-09-23T21:45:35+01:00"
-2022-09-26T11:45:22+01:00"
-2022-09-26T13:27:49+01:00"
-2023-01-14T17:29:52+00:00"
-2023-04-30T22:58:08+01:00"
-2023-05-26T10:27:10+01:00"
-2023-06-02T10:08:52+01:00"
-2023-07-09T10:53:35+01:00"
-2023-07-25T16:26:58+01:00"
-2023-10-06T12:45:17+01:00"
-For Jo, who loved this place"!
-In loving memory of Jean - 1976"$
-"DONATED BY
-TOWER HILL TRUST
-2015")
-'BOB READ 1940-2005
-MUCH LOVED MAGICIAN"+
-)PRESENTED BY CHILTON THOMPSON (AUSTRALIA)"1
-/IN MEMORY OF MY BELOVED HUSBAND
-STANLEY RAIMES"2
-0In memory of my husband
-John Bateman
-1926-1999"3
-1GIVEN BY THE FAMILY OF
-ALEXANDER AND DAISY MEZEY"6
-4Michael Strong 1938- 2008 A good friend to St Paul's"6
-4ROSE EMILY PARKER 1916 - 2002
-SHE LOVED THIS SQUARE"7
-5Be at peace.
-You don't have to do anything to be OK."7
-5JOHN B WATTON 10th FEBRUARY 1997: HAPPY 50TH BIRTHDAY"8
-6Annette Barrett 1966-2007
-A mommy who loved this park"8
-6IN REMEMBRANCE OF EDDIE AND MAY JONES
-WEST END ANGELS"9
-7In memory of
-Aileen Sillery
-And her dog (Polly)
-2003":
-8FOR ALAN BOSSON
-1931-2006
-REMEBERED
-WITH LOVE FOREVER":
-8MILES EDWARD ROTHERHAM
-1941 - 2016
-Missing you already":
-8TO MY LOVELY MARY ON HER SIXTIETH ~ WITH LOVE FROM DAVID"?
-=Roger
-Husband, Father, Friend
-Always,
-Krysia, Anna & Elena"A
-?In happy memory of
-Dr. Francis Edward Ely
-Born 1929 Died 1973"A
-?Mike Perry. Big man. Big heart.
-His smile lives on to eternity"E
+2020-09-18T18:32:42+01:00"
+2020-09-26T12:50:38+01:00"
+2020-10-25T17:38:48+00:00"
+2021-02-12T00:18:29+00:00"
+2021-08-10T21:19:41+01:00"
+2021-09-06T10:44:12+01:00"
+2021-09-06T18:46:11+01:00"
+2021-10-13T22:34:37+01:00"
+2021-11-01T09:55:43+00:00"
+2021-11-05T17:55:38+00:00"
+2022-01-01T21:32:10+00:00"
+2022-03-04T15:06:12+00:00"
+2022-03-04T15:15:10+00:00"
+2022-05-07T10:34:06+01:00"
+2022-05-07T20:52:52+01:00"
+2022-09-22T13:37:52+01:00"
+2022-09-23T16:19:50+01:00"
+2022-09-26T11:15:24+01:00"
+2022-09-26T11:30:57+01:00"
+2022-10-07T11:12:58+01:00"
+2022-12-17T08:19:46+00:00"
+2023-01-10T13:49:48+00:00"
+2023-04-30T17:29:52+01:00"
+2023-05-21T13:38:57+01:00"
+2023-05-26T10:22:28+01:00"
+2023-06-02T09:52:30+01:00"
+2023-06-02T10:16:09+01:00"
+2023-08-05T16:48:55+01:00"
+2023-08-10T09:16:25+01:00"
+2023-09-21T18:37:30+01:00"
+2023-11-11T17:53:14+00:00" 
+Emmanuel Marshall
+1970 - 2010""
+ Donated by
+P.J. Dando 1934-1997""
+ Generously given by Sara and lan"*
+(An loving memory of our MARC 1969 ~ 2006"*
+(His Honour Harold Wilson AE
+1931 - 2011"*
+(MR AND MRS CHALMERS
+HAPPY HOURS ENJOYED"0
+.EVERYBODY NEEDS A PLACE TO THINK.
+
+BBC
+FOUR"0
+.In memory of
+Elma M. Lapp
+of Cincinnati Ohio"3
+1Donated by 
+THE FRIENDS OF BATTERSEA PARK 
+2002"4
+2IN LOVING MEMORY OF
+ELI WERTHEIM
+PATRICIA - 1977"6
+4In loving memory of
+Grandad Ted
+28.5.1916-6.1.2003"7
+5For my dear wife
+Jane Wardle
+who loved to walk here"7
+5IN LOVING MEMORY OF
+A. S. (JIMMY) GEGG
+CAPTAIN 1958"7
+5IN LOVING MEMORY OF SHEILA (TUNE) O'RORKE 1908 - 1995"8
+6In loving memory of
+James Howard
+29.12.85 - 22.06.15"<
+:Jeffery and Jacqueline
+delighted in this garden
+together"<
+:Leo and Emma Rocca
+Always in our hearts, Anthony and Mira"?
+=In memory of Phil,
+the man who knew everyone
+and their dog."@
+>IN REMEMBRANCE OF
+JOEY
+FROM ALL THE STAFF AT
+CRYSTAL PALACE"A
+?In loving memory of
+Anita Lannigan (nee Blackledge)
+1952 2017"B
+@LIVED A SOLDIER, DIED A GENTLEMAN
+WE LOVE YOU PAPPY GALAL FAHMY"B
+@Mameran
+Marselo Andres Niedbaiski Diaz
+19 Oct 1976 - 22 Jun 2018"C
+AIn loving memory of Conor McHugh who believed in
+Homes and Trees"D
+BIn Loving Memory of
+ETHEL AND ALBERT BEARHAM
+1906-1986 1912-2003"D
+BJACK NATHAN
+24.12.1911
+25.12.2006
+Loved and Missed by Everybody"D
+BStanley Cowburn
+1926 - 2003
+Our loving Husband, Father and Grandad"E
 CIn memory of
-Ella Stacey and Stuart Smith
-who loved these gardens"E
-CRemembered with love
-PETER HARVEY
-1968-2010
-Always in our hearts"F
-DIn loving memory of GODFREY F. JACOBS and his dog Mo√´t
-1931 ~ 2004"H
-FIn memory of
-Harvey Staunton
-1875 - 1971
-Who so enjoyed this garden"I
-GIn Loving Memory of
-ANNE GASPA     BILL GASPA
-1915-2001     1908-1977"K
-IIn loving memory of
-HAZEL
-Aiways in our thoughts
-Forever in our hearts"M
-KIN LOVING MEMORY OF BETTY PAMELA GOURDEAU
-MARCH 19TH 1928 - JULY 17TH 2000"M
-KKind heart, dear friend
-Tony Wallis (1938 - 2016)
-loved to photograph Kew"M
-KPresented by Cynthia O'Connor
-and Margot Dunlop in memory
-of Maria Hornes"N
-LProfessor Iain Stevenson (1950 -2017) Observed life, loved life, shared life"P
-NIn loving memory of
-Feona Rose Batey
-1953-2020
-Always with us in our hearts"P
-NLESLIE WALLACE
-DIED 21-12-89
-IN LOVING MEMORY
-O FOR A CLOSER WALK
-WITH GOD"Q
-OIn celebration of the
-Golden Jubilee of
-Bromley Reform Synagogue
-1964 - 2014"R
-PJAMES MAYLEY
-1988 - 2007
-YOU WILL NEVER BE FORGOTTEN
-FROM
-EVERYONE WHO LOVED YOU"R
-PMARY SCOTT STUART FOREVER TREASURED
-"IN LOVE THERE IS INFINITY AND IMMORTALITY""S
-QMichael James Ashby 3.8.1949-11.3.2006
-"Carry laughter with you wherever you go""W
+JEAN F. NAYLOR
+who loved this park
+23 February 1999"I
+GIn Loving Memory of Our
+Beloved Mother & Por Por
+Ng Lai Nor l947-2017"J
+HLOUIS MORIARTY 
+SCHOLAR PHILOSOPHER FRIEND
+HARROW MASTER 
+1889 - 1917"M
+KSusan Daniels Macdonald
+1948-2010
+Maybe there's a trapdoor under my chair"N
+LCharles Arnold 1 Oct 1916 ~ 25 Jan 2000
+Eva, Hendryk, David, Donja 1941 RCA"N
+LFor my dear wife Barbara Anspach whose heart forever sings in Berkely Square"N
+LIn Loving Memory
+of
+Leslie and Audrey Cruckshank
+who so enjoyed this park"O
+MPaul F N Emms 1947 - 1999
+Ain't No Mountain High Enough
+so Come Fly With Me"P
+NMarie Taylor 1963-2017
+An amazing lady: beautiful,
+unique, much loved by all"Q
+OIn memory of Doris and Harold Steel, wonderful parents,
+who loved Holland Park"T
+RFOR CECILE AND MARTIN FLACK
+ON THE OCCASION OF HER 90TH BIRTHDAY 15TH AUGUST 1978"W
 UIN LOVING MEMORY OF
 OUR DEAREST MUM
 ISOBEL BURFIELD
-WHO PASSED AWAYSON 27th JULY 1986"Y
-WForever in our Hearts
-Brion & Patricia Beech
-Loving Parents
-and Devoted Grandparents"Y
-WIn Loving Memory of
-Duncan McLaren 1965-2003
-From his friends and colleagues in X-Ray"Y
-WLOIS ELEANOR JOY
-25/7/1922 TO 11/1/2019
-FOR OUR WONDERFUL GE GE
-WHO WE LOVED SO MUCH"Z
-XGeoffrey P. Kendall
-Resident of No. 48 from 1990-2001
-Happy 40th from Heather and Emma"]
-[FOR J. ROBERT BARTH SJ
-WHO CHERISHES HIS QUIET HOURS IN THESE GARDENS
-GIVEN BY HIS FAMILY"_
-]IN MEMORY OF JULIA H FREUND
-FROM JULIA B AND S.E. FREUND
-SO THAT OTHERS MAY ENJOY THIS PARK"_
-]In loving memory of
-Jill Healy
-1942 - 2010
-In loving memory of
-Patrick Healy
-1965 - 2011"a
-_Pauline Martyn
-16/10/1953 to 28/09/2020
-I'd hoped for a Pyramid -
-but at least I got a bench"b
-`AIDAN DONOVAN
-1956-2014
-You Will Always Be With Us
-Shall we have another one here or move on""c
-aIn memory of Andrew Sellick (Shrek) - October 1969 - 3 April 2019
-Always remembered with a smile"c
-aPresented to 
-The Corporation of London
-by St. Martins Property Corporation Ltd
-4th June, 1991"d
-bIn loving memory of
-DAVID HENRY ANGERMAYER
-1967 2004
-"Life is unending because love is undying""i
-gGERED WINDLE and ANDY PEGGS
-1957 - 1993 1960 - 1993
-EXTRAORDINARY MEN.
-CHERISHED UNFORGETTABLE FRIENDS."j
-hEleanor Ferguson
-1941-2000
-Deeply loved and sorely missed
-Edward Ferguson
-1938-2012
-Never forgotten"l
-jIn loving memory
-JOAN GRACE GABRIEL
-13.6.1928 23.10.2008
-worked for PEACE, EDUCATION and SOCIAL JUSTICE"m
-k[Circular Tree Bench]
-Anne Macdonald
-1934
-Village School
-J.A.G.S
-Rachel McMillan
-Marriage
-Motherhood"o
-mTO CELEBRATE THE ACHIEVEMENT OF LONDON'S ARCADIA PROJECT 2008
-PRESENTED BY THE HAM AND PETERSHAM ASSOCIATION"q
-oSpecial daughter and sister
-Always in our thoughts and forever in our hearts
-Jessica Urbano Ramirez 2004-2017"u
-sin loving memory of Elsie Mary Smith of Streatham
-15.3.22 to 20.2.02
-who loved trees and flowers
-and Brockwell Park"y
-wKatie Anne Hillman 6-9-1942 - 17-3-2002
-Sadly missed by her husband and children, grandchildren, relatives and friends"}
-{1.2.1935 5.1.2013
-To my beautiful June with the dancing feet
-who I owe so much to. Forever in my thought
-Trevor & Neilus"
-}In loving memory of
-Mary "Marie" McLaren
-1945- 2015
-A loving sister, aunt and much more
-Too dearly loved to ever be forgotten"Å
-For Jimmy
-In celebration of our 20th anniversary and
-many more years together of life, love and London
-Maxine - January 2005"É
-ÄIN MEMORY OF ALF MENDEL BORN 13/01/1913, DIED 24/01/1994
-AND ROSE MENDEL, BORN 05/05/1923, DIED 25/07/2018, WHO LOVED THIS WOOD"Ö
-ÇFOR MY CHILDREN PHILIPPA AND RICHARD
-YOUNG AMERICANS WHO MAY ONE DAY
-COME TO KNOW THIS PLACE
-RICHARD L. FEIGEN
-8TH AUGUST 1987"á
-ÑIn loving memory of
-MONTY TYLER
-1914 - 1998
-and of his beloved wife
-MARJORIE TYLER (N√âE WESTOBY)
-1923 - 2015
-"Together again""ä
-áSTEPHEN F. L. McASLAN
-30-3-62 - 28-10-89
-IN CONSTANT MEMORY OF A BELOVED
-SON, GRANDSON, BROTHER AND FRIEND
-"HE LIVED UNTIL HE DIED""ä
-á[{"URL":"/image/c8e2f25ffac215358dcdfa01313c36c1b09f0063","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"c8e2f25ffac215358dcdfa01313c36c1b09f0063","width":4576,"height":2576},{"URL":"/image/81e6dd9973caf3a5bb704726698341146a5fbbf3","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"81e6dd9973caf3a5bb704726698341146a5fbbf3","width":4576,"height":2576},{"URL":"/image/b2e3ea3b0d3966ba36f1d7d006feda5e1690947c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b2e3ea3b0d3966ba36f1d7d006feda5e1690947c","width":4576,"height":2576},{"URL":"/image/4ee3cc4bf38d21745b14ebe2b681178dc5b949be","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"4ee3cc4bf38d21745b14ebe2b681178dc5b949be","width":4576,"height":2576},{"URL":"/image/d58d0f200ad41bfff540413cd5d188eb188fb0ba","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d58d0f200ad41bfff540413cd5d188eb188fb0ba","width":4576,"height":2576},{"URL":"/image/80f29f209179446016a2320e6582e5a5e9a49a54","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"80f29f209179446016a2320e6582e5a5e9a49a54","width":4576,"height":2576},{"URL":"/image/e3f4896e563a5630c6ed28c96aef8ca887a1b8f5","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e3f4896e563a5630c6ed28c96aef8ca887a1b8f5","width":4576,"height":2576},{"URL":"/image/5f64a15c92d6235c641f3b150e9ac4a951be3089","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5f64a15c92d6235c641f3b150e9ac4a951be3089","width":4576,"height":2576},{"URL":"/image/c56d44859b8e720aa97730b12bf31a79226e399f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c56d44859b8e720aa97730b12bf31a79226e399f","width":4576,"height":2576}]"å
-âIn fond memory of the precious days
-spent here, and for the good times yet to come.
-Our boundless love and gratitude for
-Kusuzo and Eiko."ë
-éIN LOVING MEMORY OF OUR DEAR PARENTS
-ERNEST J FUZZEY 16-12-1908 9-7-1995 & MARGARET F FUZZEY 17-4-1908 13-6-2000
-"The Wind Beneath My Wings""ì
-êDETIKUAR PRINDERVE TANE TE DASHUR SABRI DHE BEHIJE PRECI
-ALWAYS IN OUR HEARTS ALWAYS WITH US
-FROM YOUR LOVING DAUGHTERS AND GRANDCHILDREN 2014"î
-ëIn loving memory of Natalie Jayne Best. 1970 - 2012
-Wonderful wife and friend who enjoyed life to the full
-You will live in our hearts for ever"î
-ëROY WILLIAM GREEN
-1944-2011,
-OUR LOVING FATHER AND DEAREST FRIEND
-A TRULY UNIQUE MAN WITH A HUGE SMILE
-AND A HEART OF GOLD
-GOD REST HIS SOUL"ï
-íIn Loving memory of Dr Iraj Moghadassi,
-whose passion for science and nature was surpassed only by his love for life.
-‚ÄúYouur place is empty‚Äù"ñ
-ìIf you turn some species of shark upside down they
-will go into a trance-like state called tonic immobility
-lasting approximately fifteen minutes"ô
-ñIn Memory of Stuart J Duggan 24-3-1957 - 14-3-2019
-He loved to walk in this park with his wife Debra and Harry the dog
-Much loved, greatly missed XX"ö
-óIn Ioving memory of Lesley Ann Munro
-Freeman of The City of London
-Daughter of Harold Weston
-2nd March 1948 - 17th June 2005
+WHO PASSED AWAYSON 27th JULY 1986"X
+VCLARINE MAY MOSS
+1911 - 2007
+MOTHER, GRANDMOTHER. TEACHER
+LOVED BY ALL WHO KNEW HER"X
+VFLORENCE CAMPBELL
+Much loved by her family and friends
+8 April 1921 12 November 2012"[
+YAxel George Peanberg King
+10.9.2012 - 3.11.2012
+Our little Tufty lives on in our hearts"\
+ZDick and Lee Henden
+Met here in Berkeley Square
+on September 1 1942.
+Always remembered."]
+[IN LOVING MEMORY OF MUSTAFA ELSAYED 1950-2013
+WE LOVE YOU, WE MISS YOU - REST IN PEACE DAD"^
+\IN GRATEFUL MEMORY OF SYLVIA HARRIS (4.4.1920 -20.12.1983)
+WHO LOVED AND GRACED THIS GARDEN"`
+^Chris Tsangarides
+Dedicated with love by
+Sofia and Raphael
+for the happy times enjoyed here"a
+_ANDREW BACKHAUS
+1973-2004 A very special teacher colleague and friend at Corpus Christi School"b
+`Erected to the memory of Mrs Frances Godfree
+A devoted member of this church from 1925 to 1951."b
+`PETER FLEMMNG HUTTON 1919 - 1996
+JUNE ANNETTE HUTTON (nee Robinson) 1921 - 2002
+In Loving Memory"c
+aHarinder K Mangat (44-21)
+b. Lahore, 66 Bush, 70 west.
+A lover of all roses.
+Enjoy the garden."c
+aIN LOVING MEMORY OF MY PARENTS
+ANNIE AND DAVID EDWARDS OF CLAPHAM
+AND MY HUSBAND FRANK BERRIDGE"d
+bIN MEMORY OF 
+EUGENIA VARDAVAS
+WHO SPENT MANY HAPPY HOURS
+IN THIS GARDEN
+PRESENTED BY HER SON."e
+cIN MEMORY OF FRANCES REILEY BOCHROCH
+A PHILADELPHIA LADY WHO FOUND THESE
+GARDENS A PLEASANT PLACE"e
+cIn Loving Memory of Belinda "BEE" Harries
+Who loved to walk with Bertie in this park.
+1955 - 2009"f
+dDr. G. DENISON STILWELL MRCS. LRCP.
+1904-1982
+IN MEMORY OF 45 YEARS SERVICE TO
+BECKENHAM HOSPITAL"j
+hIN MEMORY OF
+JESSICA YVE WHITMORE
+30.6.88 ~ 6.9.05
+MAY YOU REST IN PEACE
+WITH LOVE DAD, MUM AND RYAN"l
+jHe took the children in his hand
+Put his hands on them
+And blessed them
+Natasha
+In our thoughts always"l
+jIn memory of Brian John Bloice 10.08.1939 - 29.10.2015
+Local Historian who loved this garden and this view"o
+mIN LOVING MEMORY OF
+CYNTHIA AND GEORGE ISSERLIS
+(AKA BASIL AND BRUSH)
+WHO SPENT MANY HAPPY YEARS IN BARNES"r
+pIN MEMORY OF
+JEAN HENDERSON
+AND HER PARENTS
+JOHN AND FLORENCE
+Who loved and served the suburb for many years"r
+pIn memory of Nick Votta
+1958 - 2021
+Always an opinion, always there for you.
+A great friend for over 50 years"s
+qDoreen Rose Znak 1935-2016
+Mum, Babi, Free spirit
+An inspiration who never followed the rules
+We really miss you!"{
+yPaul Dennis King
+28.3.1980 -18.6.2005
+Our Paul, who loved this place.
+remembered for his love of nature and big laugh."~
+|"TO LIVE IN THE HEARTS OF THOSE WE LEAVE BEHIND IS NOT TO DIE"
+IN LOVING MEMORY
+PHILIP RONALD McINNERNY
+9.10.48 - 26.3.92"
+}Captain Peter Higginson
+1950 2012
+Pete's brilliant mind, kind heart and generous soul
+so much missed by friends and family"Ñ
+Å[METAL PLATE]
+In memory of
+Judith Hewson
+(nee Day)
+1941 - 2013
+Sadly missed, always remembered
 
-
-In Loving Memory of
-Harold ‚ÄòTom‚Äô Weston
-Wandsman of St. Paul's Cathedral
-Freeman of the City of London
-28 February 1920 - 10 November 1997"ú
-ôIn loving memory of my dear husband
-RON KNIGHT
-Who enjoyed his visits to this park
-Ron will always be remembered by his friends and family 
-1929-2003"û
-õPRESENTED BY
-NATIONAL WESTMINSTER BANK PLC
-TO MARK THE 150th ANNIVERSARY OF
-THE BANKS PRESENCE IN ST JAMES'S SQUARE
-AND PRIOR TO THAT IN WATERLOO PLACE"£
-†‚ÄúLOOK FOR ME IN RAINBOWS‚Äù
-KATHLEEN ANGELA O‚ÄôNELL
-b.Graiguecullen 1942 d.Clapham 2019
-Beloved Mother, Nan & Big Nanny to
-Michele, Jess, Jabob & Kaytlin"®
-•[{"URL":"/image/041155d622afbca2a952f02c20defb1a7dde53a0","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"041155d622afbca2a952f02c20defb1a7dde53a0","width":2592,"height":1460},{"URL":"/image/6fab4ece94123c34b14ea9c9ee939a011e48b6da","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"6fab4ece94123c34b14ea9c9ee939a011e48b6da","width":2592,"height":1460},{"URL":"/image/9a6d139cfe5951365de6536bcc76189d92f4f4f1","licence":"CC BY-SA 4.0","media_type":"view","sha1":"9a6d139cfe5951365de6536bcc76189d92f4f4f1","width":2592,"height":1460}]"®
-•[{"URL":"/image/091d7b09106077e60c820debaafb9fc10eda6984","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"091d7b09106077e60c820debaafb9fc10eda6984","width":4032,"height":3024},{"URL":"/image/9eb07eabfcbb2998fcbc7314602a27e8854602e6","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"9eb07eabfcbb2998fcbc7314602a27e8854602e6","width":4032,"height":3024},{"URL":"/image/e2c3d12da56d6d8269d6d490304d374e6365a6c7","licence":"CC BY-SA 4.0","media_type":"view","sha1":"e2c3d12da56d6d8269d6d490304d374e6365a6c7","width":4032,"height":3024}]"®
-•[{"URL":"/image/0aea6e5c87886133a9695741edac7ceadd53d644","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"0aea6e5c87886133a9695741edac7ceadd53d644","width":3840,"height":2160},{"URL":"/image/144f561ba5f37d2f5e1eef5ae03c2f3fa1a63adf","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"144f561ba5f37d2f5e1eef5ae03c2f3fa1a63adf","width":4096,"height":3072},{"URL":"/image/0bd5d41193877f4c3508528469455600dfdad763","licence":"CC BY-SA 4.0","media_type":"view","sha1":"0bd5d41193877f4c3508528469455600dfdad763","width":4096,"height":3072}]"®
-•[{"URL":"/image/0bf236288631d9e90b1a47b5108de9c2143f7483","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"0bf236288631d9e90b1a47b5108de9c2143f7483","width":4096,"height":3072},{"URL":"/image/7b3b786a7f42f9d875a906fd1de45c60459870cb","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7b3b786a7f42f9d875a906fd1de45c60459870cb","width":4096,"height":3072},{"URL":"/image/ebb462ac59b44d0b25a767e4b33da1933c39e8cb","licence":"CC BY-SA 4.0","media_type":"view","sha1":"ebb462ac59b44d0b25a767e4b33da1933c39e8cb","width":4096,"height":3072}]"®
+[SEAT BACK]
+HORNIMAN GDNS"Ü
+ÉIn loving memory of
+"Alboy"
+Alex Keitn Lostak
+12.07.76 - 11.11.07
+Loved son and cherished brother you are deeply missed but will remain forever in our hearts
+"May the Lord watch between me and thee, while we are absent, one from the other"
+Genesis 31:49"ã
+à‚ÄúA good spot for a fine pint.‚Äù As enjoyed by Edward (Steve) Gunningham.
+Who would have enjoyed the view, were it not for that tree!"å
+âGrinling Gibbons
+1648 - 1721
+Deptford Dockyard woodcarver.
+His work adorns St. Pauls Cathedral,
+St. Nicholas Church and The Royal Palaces"å
+âIn loving memory of
+Joan and John Reynolds
+14.1.23 - 23.6.13   2.4.22 - 2.6.07
+who loved coming to this park
+with their grandchildren"ë
+éRoyal London Homeopathic Hospital
+In memory of the 16 homeopathic doctors and colleagues
+who died in the Trident Air disaster 18th June 1942"ò
+ïIn Memory of
+Catherine De Sousa (1926-2018)
+Who loved to sit in these gardens
+"There are no strangers, only friends you have not met yet!"
+(WB Yeats)"•
+¢[{"URL":"/image/fe650a89792b8ce9af4bcab15b248f53456a85fa","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"fe650a89792b8ce9af4bcab15b248f53456a85fa","width":4576,"height":2576},{"URL":"/image/9f1ad633bd2fe9b0455a2b74c5f5639893ae83f8","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9f1ad633bd2fe9b0455a2b74c5f5639893ae83f8","width":4576,"height":2576},{"URL":"/image/9faddd3bde37d707c417b9a91e3de17912ac4730","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9faddd3bde37d707c417b9a91e3de17912ac4730","width":4576,"height":2576},{"URL":"/image/b755e9305bb0bf7570057cd4badd5660fb7b140c","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"b755e9305bb0bf7570057cd4badd5660fb7b140c","width":4576,"height":2576},{"URL":"/image/3964bb50ab8dbb282d37bcb7c16f9fbd0d684b87","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"3964bb50ab8dbb282d37bcb7c16f9fbd0d684b87","width":4576,"height":2576}]"®
+•[{"URL":"/image/01e0cdc762288ae0459432df6b5bf690d4d63fb9","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"01e0cdc762288ae0459432df6b5bf690d4d63fb9","width":4000,"height":3000},{"URL":"/image/69181d4fb17757b02f239d0304d508d42835ba1c","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"69181d4fb17757b02f239d0304d508d42835ba1c","width":4000,"height":3000},{"URL":"/image/58ae9532ee26e3e8a26275fa78597a41ec9cbb69","licence":"CC BY-SA 4.0","media_type":"view","sha1":"58ae9532ee26e3e8a26275fa78597a41ec9cbb69","width":4000,"height":3000}]"®
+•[{"URL":"/image/0646ad3335a5dd4237651b1c526fa069f597a3f2","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"0646ad3335a5dd4237651b1c526fa069f597a3f2","width":4032,"height":3024},{"URL":"/image/f2679d1b8619b835321757e1d07fab81a6344ea4","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"f2679d1b8619b835321757e1d07fab81a6344ea4","width":4032,"height":3024},{"URL":"/image/30451f21f124eb2f8b7d242ca34500160b8b0bbd","licence":"CC BY-SA 4.0","media_type":"view","sha1":"30451f21f124eb2f8b7d242ca34500160b8b0bbd","width":4032,"height":3024}]"®
+•[{"URL":"/image/10ef97a47abfb4e99b85fba8ab429ae7baedc4a7","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"10ef97a47abfb4e99b85fba8ab429ae7baedc4a7","width":4032,"height":3024},{"URL":"/image/2b7a41a0be1682f368c2f6f54c551c2b085b845e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2b7a41a0be1682f368c2f6f54c551c2b085b845e","width":4032,"height":3024},{"URL":"/image/f21a96c1d0b7e47eac4bba484e102eb0d624fa1a","licence":"CC BY-SA 4.0","media_type":"view","sha1":"f21a96c1d0b7e47eac4bba484e102eb0d624fa1a","width":4032,"height":3024}]"®
+•[{"URL":"/image/1169b4caf7350459ce001e8453ad86d48cd59ec8","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"1169b4caf7350459ce001e8453ad86d48cd59ec8","width":4032,"height":3024},{"URL":"/image/2be463710e7e6efc652081db6482ab3eeff49985","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2be463710e7e6efc652081db6482ab3eeff49985","width":4032,"height":3024},{"URL":"/image/1c29d9144e4e09318fe0bead018b4e5e47b5da68","licence":"CC BY-SA 4.0","media_type":"view","sha1":"1c29d9144e4e09318fe0bead018b4e5e47b5da68","width":4032,"height":3024}]"®
+•[{"URL":"/image/1b295e2bd16317097efca9260e65cdd32238aaff","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"1b295e2bd16317097efca9260e65cdd32238aaff","width":4096,"height":3072},{"URL":"/image/a371acbf330a348a372da1467dda15c7991e8181","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"a371acbf330a348a372da1467dda15c7991e8181","width":4096,"height":3072},{"URL":"/image/0cdefc0bf687cbb55222217fc979cb6115415d1f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"0cdefc0bf687cbb55222217fc979cb6115415d1f","width":4096,"height":3072}]"®
+•[{"URL":"/image/1c6e5cbd091f942abff9b193328df117a29de6bc","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"1c6e5cbd091f942abff9b193328df117a29de6bc","width":4096,"height":3072},{"URL":"/image/5e7673548965c59c532d6c0fb834a2188d01a6dc","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5e7673548965c59c532d6c0fb834a2188d01a6dc","width":4096,"height":3072},{"URL":"/image/39890c4ee9b595aa9428ec172e0966ab51bab1b7","licence":"CC BY-SA 4.0","media_type":"view","sha1":"39890c4ee9b595aa9428ec172e0966ab51bab1b7","width":4096,"height":3072}]"®
+•[{"URL":"/image/200a6f0c09dae29559408597865bc12f5cb3ce2b","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"200a6f0c09dae29559408597865bc12f5cb3ce2b","width":4096,"height":3072},{"URL":"/image/a0f9eb8401f575d194760af080cfc76ce806d794","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"a0f9eb8401f575d194760af080cfc76ce806d794","width":4096,"height":3072},{"URL":"/image/e6c3b1d2fae48ca677bb1df4e9d2ba968722990e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"e6c3b1d2fae48ca677bb1df4e9d2ba968722990e","width":4096,"height":3072}]"®
 •[{"URL":"/image/202f9dfdeb3b13607ecf4660c55e3d59870fde0d","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"202f9dfdeb3b13607ecf4660c55e3d59870fde0d","width":4032,"height":3024},{"URL":"/image/9fb4820b33f22a33970bf733fcfd12a35273970c","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"9fb4820b33f22a33970bf733fcfd12a35273970c","width":4032,"height":3024},{"URL":"/image/e95ed31c5a2feccb92a55b606348b5bb4bb0ecc4","licence":"CC BY-SA 4.0","media_type":"view","sha1":"e95ed31c5a2feccb92a55b606348b5bb4bb0ecc4","width":4032,"height":3024}]"®
-•[{"URL":"/image/2055f4c82ae93bba5ba2cd89c91a052880e14e7e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"2055f4c82ae93bba5ba2cd89c91a052880e14e7e","width":3264,"height":2448},{"URL":"/image/8a01235821f5364f60238f1fbcadac8373445638","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"8a01235821f5364f60238f1fbcadac8373445638","width":3264,"height":2448},{"URL":"/image/c855b83553d93040ea99cfac5298d1fb5cb32b02","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c855b83553d93040ea99cfac5298d1fb5cb32b02","width":3264,"height":2448}]"®
-•[{"URL":"/image/2969f8ff1c48edb0d730aecf1df219c85489177c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"2969f8ff1c48edb0d730aecf1df219c85489177c","width":4032,"height":3024},{"URL":"/image/0d405cf2a0b6e9588293f4c5487317b7b9579e03","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0d405cf2a0b6e9588293f4c5487317b7b9579e03","width":4032,"height":3024},{"URL":"/image/32952d247d218fdc20f375e8daaee2e2ff02953b","licence":"CC BY-SA 4.0","media_type":"view","sha1":"32952d247d218fdc20f375e8daaee2e2ff02953b","width":4032,"height":3024}]"®
-•[{"URL":"/image/4113d4d3996ddf187e370e0905d8df9bb43fc74a","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"4113d4d3996ddf187e370e0905d8df9bb43fc74a","width":5184,"height":2920},{"URL":"/image/069be867f86751c8e210b727923fa26d008d4904","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"069be867f86751c8e210b727923fa26d008d4904","width":5184,"height":2920},{"URL":"/image/eac3edf2b674d285fd5d4fd3e1fdd0c92f7220f2","licence":"CC BY-SA 4.0","media_type":"view","sha1":"eac3edf2b674d285fd5d4fd3e1fdd0c92f7220f2","width":5184,"height":2920}]"®
-•[{"URL":"/image/45377bef3867a2587ab9bd85cd2b0026f98e5186","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"45377bef3867a2587ab9bd85cd2b0026f98e5186","width":4160,"height":3120},{"URL":"/image/bf2d5425538c926f8e26e1e131b42ba1375f4dc2","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"bf2d5425538c926f8e26e1e131b42ba1375f4dc2","width":4096,"height":3072},{"URL":"/image/c7282b9b8979344618b6c945cbef9f7df9ff1969","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c7282b9b8979344618b6c945cbef9f7df9ff1969","width":4096,"height":3072}]"®
-•[{"URL":"/image/470cb8948ad1a3e7f2cdbe03cb23555356cdaf25","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"470cb8948ad1a3e7f2cdbe03cb23555356cdaf25","width":5184,"height":2920},{"URL":"/image/7450788d5b42d97db11ae99b1975559151692498","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7450788d5b42d97db11ae99b1975559151692498","width":5184,"height":2920},{"URL":"/image/bfd333fd8885806c3a320a2a99af8b2b217def55","licence":"CC BY-SA 4.0","media_type":"view","sha1":"bfd333fd8885806c3a320a2a99af8b2b217def55","width":5184,"height":2920}]"®
-•[{"URL":"/image/4d732d31608a2255f45dcc93bf4ca6a868f862c7","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"4d732d31608a2255f45dcc93bf4ca6a868f862c7","width":4032,"height":3024},{"URL":"/image/7047b7b51141d344ae2b51e9d636850d1cc8295e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7047b7b51141d344ae2b51e9d636850d1cc8295e","width":4032,"height":3024},{"URL":"/image/3853f686b3c1cf8c8ba8f4482abb175230185a26","licence":"CC BY-SA 4.0","media_type":"view","sha1":"3853f686b3c1cf8c8ba8f4482abb175230185a26","width":4032,"height":3024}]"®
-•[{"URL":"/image/4f4601867d78af5befae841e29a95eef67f484e9","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"4f4601867d78af5befae841e29a95eef67f484e9","width":4032,"height":3024},{"URL":"/image/2fc0b33d466014dec92041b980bc7c425061be0c","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2fc0b33d466014dec92041b980bc7c425061be0c","width":4032,"height":3024},{"URL":"/image/f956fbdce6cf09dfe5ab937b019ea394f86025de","licence":"CC BY-SA 4.0","media_type":"view","sha1":"f956fbdce6cf09dfe5ab937b019ea394f86025de","width":4032,"height":3024}]"®
-•[{"URL":"/image/5153fc40befdf771d6fb473fc6244826680472c2","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"5153fc40befdf771d6fb473fc6244826680472c2","width":4032,"height":3024},{"URL":"/image/16a4d07278605673602735e841066490fee67b56","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"16a4d07278605673602735e841066490fee67b56","width":4032,"height":3024},{"URL":"/image/9fba479c14664721b418caa96ebf4d9d67a13345","licence":"CC BY-SA 4.0","media_type":"view","sha1":"9fba479c14664721b418caa96ebf4d9d67a13345","width":4032,"height":3024}]"®
-•[{"URL":"/image/67d434dc56b90e9efe0acd53e193a5f9908bd0c9","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"67d434dc56b90e9efe0acd53e193a5f9908bd0c9","width":4080,"height":3072},{"URL":"/image/307b8971f99f29910ec3b9d2e0f459000d148805","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"307b8971f99f29910ec3b9d2e0f459000d148805","width":4080,"height":3072},{"URL":"/image/74688d745287ad1805062ea265ee7539146f714c","licence":"CC BY-SA 4.0","media_type":"view","sha1":"74688d745287ad1805062ea265ee7539146f714c","width":4080,"height":3072}]"®
-•[{"URL":"/image/6add2e1d049cb089616cd37f2381d079ed6e67bd","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6add2e1d049cb089616cd37f2381d079ed6e67bd","width":3264,"height":2448},{"URL":"/image/12b9bfe3defd194d4e0facb5c038812b3958ca9a","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"12b9bfe3defd194d4e0facb5c038812b3958ca9a","width":3264,"height":2448},{"URL":"/image/ede1310c1986479bb3294aeb80b43b9e674c4ae8","licence":"CC BY-SA 4.0","media_type":"view","sha1":"ede1310c1986479bb3294aeb80b43b9e674c4ae8","width":3264,"height":2448}]"®
-•[{"URL":"/image/70c7ecd525760acef1011a93a29f2af17b74cfd6","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"70c7ecd525760acef1011a93a29f2af17b74cfd6","width":4160,"height":3120},{"URL":"/image/f04ebdf423eafa29d600053e24df9f3c9d280bac","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"f04ebdf423eafa29d600053e24df9f3c9d280bac","width":4096,"height":3072},{"URL":"/image/388e1a9b99a39218b03646a93d0ca525217b0778","licence":"CC BY-SA 4.0","media_type":"view","sha1":"388e1a9b99a39218b03646a93d0ca525217b0778","width":4096,"height":3072}]"®
-•[{"URL":"/image/71fb0832c6235ed7cadcbc84fddbf9409c849c01","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"71fb0832c6235ed7cadcbc84fddbf9409c849c01","width":3264,"height":2448},{"URL":"/image/8cf4dcf04c07e8ebd25fb0204b46b64e4dcc90ad","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"8cf4dcf04c07e8ebd25fb0204b46b64e4dcc90ad","width":4096,"height":3072},{"URL":"/image/78806bb7217346d447475de0d429c9c2db5f5a6f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"78806bb7217346d447475de0d429c9c2db5f5a6f","width":4096,"height":3072}]"®
-•[{"URL":"/image/78fc87a4d1ecbdb1cf6629ce37c508ffacffcb68","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"78fc87a4d1ecbdb1cf6629ce37c508ffacffcb68","width":4576,"height":2576},{"URL":"/image/7a871bf5d7b627b52ebd4fca10d507350519243a","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7a871bf5d7b627b52ebd4fca10d507350519243a","width":4576,"height":2576},{"URL":"/image/7ff3acb6ea84d620138f995aa777b60b7d3ba3fb","licence":"CC BY-SA 4.0","media_type":"view","sha1":"7ff3acb6ea84d620138f995aa777b60b7d3ba3fb","width":4576,"height":2576}]"®
-•[{"URL":"/image/79ec08ef854b29e7710d32745084150dd72e6718","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"79ec08ef854b29e7710d32745084150dd72e6718","width":2592,"height":1460},{"URL":"/image/1b76feab8143c7970c19c47b170b8fd9a6e8cbb7","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"1b76feab8143c7970c19c47b170b8fd9a6e8cbb7","width":2592,"height":1460},{"URL":"/image/c29aaf257962732ed3a6f5e452e7b530deb0424d","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c29aaf257962732ed3a6f5e452e7b530deb0424d","width":2592,"height":1460}]"®
-•[{"URL":"/image/7c3f5e0954f7c15c05c2b2dfbbc35b18c280c9d4","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"7c3f5e0954f7c15c05c2b2dfbbc35b18c280c9d4","width":3840,"height":2160},{"URL":"/image/0859d7f5c1f39e4c8d7a3979586864da353048bb","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0859d7f5c1f39e4c8d7a3979586864da353048bb","width":3840,"height":2160},{"URL":"/image/1f84e06b997803ea57a6af8bb8dbf2dac74e8524","licence":"CC BY-SA 4.0","media_type":"view","sha1":"1f84e06b997803ea57a6af8bb8dbf2dac74e8524","width":3840,"height":2160}]"®
-•[{"URL":"/image/7ddc3eeea6d8136de012fd91b31f0aef95b8a30b","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"7ddc3eeea6d8136de012fd91b31f0aef95b8a30b","width":3509,"height":2632},{"URL":"/image/fd653e11158f4ebc4aafe9d997dab507394f421b","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"fd653e11158f4ebc4aafe9d997dab507394f421b","width":4032,"height":3024},{"URL":"/image/546e8cd62619a5e2569fc18b17cdc96a68627a66","licence":"CC BY-SA 4.0","media_type":"view","sha1":"546e8cd62619a5e2569fc18b17cdc96a68627a66","width":4032,"height":3024}]"®
-•[{"URL":"/image/844abe3245064adb9a63a183c55a747d40a3f1dc","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"844abe3245064adb9a63a183c55a747d40a3f1dc","width":4032,"height":3024},{"URL":"/image/dd26f13f9d59e8ece20a4b60928ac6dff1c2a84f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"dd26f13f9d59e8ece20a4b60928ac6dff1c2a84f","width":4032,"height":3024},{"URL":"/image/c03800339381d47cf6e91ea415d62e30017286f2","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c03800339381d47cf6e91ea415d62e30017286f2","width":4032,"height":3024}]"®
-•[{"URL":"/image/894c675faa7628dac9d98f203de19589111162a3","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"894c675faa7628dac9d98f203de19589111162a3","width":3024,"height":3024},{"URL":"/image/ee2705c88e53b93fc50339e1b9d0bdfc220381bf","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"ee2705c88e53b93fc50339e1b9d0bdfc220381bf","width":3024,"height":3024},{"URL":"/image/77bcec4d3947625209d271def2ee3215c0956858","licence":"CC BY-SA 4.0","media_type":"view","sha1":"77bcec4d3947625209d271def2ee3215c0956858","width":3024,"height":3024}]"®
-•[{"URL":"/image/8da08a6c53f2831c292554cd9137aa54f19a5268","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"8da08a6c53f2831c292554cd9137aa54f19a5268","width":4576,"height":2576},{"URL":"/image/79561284682282ced04f96b89c98ab10a0545234","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"79561284682282ced04f96b89c98ab10a0545234","width":4576,"height":2576},{"URL":"/image/c2f6a8d6412e516d67e63bcdc3c68eae5201eed9","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c2f6a8d6412e516d67e63bcdc3c68eae5201eed9","width":4576,"height":2576}]"®
-•[{"URL":"/image/90f93916e95888aa88082473c9c3d2bb85cb1939","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"90f93916e95888aa88082473c9c3d2bb85cb1939","width":4032,"height":3024},{"URL":"/image/5859f6673dc72494c2598d5fcebcc00fe0f2ddea","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5859f6673dc72494c2598d5fcebcc00fe0f2ddea","width":4032,"height":3024},{"URL":"/image/137e4182115735b1ad709755498d9045ef2c64cd","licence":"CC BY-SA 4.0","media_type":"view","sha1":"137e4182115735b1ad709755498d9045ef2c64cd","width":4032,"height":3024}]"®
-•[{"URL":"/image/9b0012b66ab85c17b975e2bcf4be67c3f1bf105d","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9b0012b66ab85c17b975e2bcf4be67c3f1bf105d","width":4032,"height":3024},{"URL":"/image/45f097242d284a590ec1a4b6a4bbb6e479d08182","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"45f097242d284a590ec1a4b6a4bbb6e479d08182","width":4096,"height":3072},{"URL":"/image/60230c147154181cff498fbd651bf09f9cfe7820","licence":"CC BY-SA 4.0","media_type":"view","sha1":"60230c147154181cff498fbd651bf09f9cfe7820","width":4096,"height":3072}]"®
-•[{"URL":"/image/9bcbcc695c66526654abf3dd43c0cf0121491515","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9bcbcc695c66526654abf3dd43c0cf0121491515","width":4032,"height":3024},{"URL":"/image/d5a951e3bf065721ddf87fcfc69e1f322e14ad94","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"d5a951e3bf065721ddf87fcfc69e1f322e14ad94","width":4032,"height":3024},{"URL":"/image/82f7651c373e47b5a6d405396dc5c38ae4235033","licence":"CC BY-SA 4.0","media_type":"view","sha1":"82f7651c373e47b5a6d405396dc5c38ae4235033","width":4032,"height":3024}]"®
-•[{"URL":"/image/a65ea39a4be661ea0c59bbcee5dab5934fc54bac","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"a65ea39a4be661ea0c59bbcee5dab5934fc54bac","width":2448,"height":3264},{"URL":"/image/32a26f7907458bee0c9ddf119188d0e495405c6f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"32a26f7907458bee0c9ddf119188d0e495405c6f","width":2448,"height":3264},{"URL":"/image/c0bf286524afd01540ab525b1048a55c4efcca62","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c0bf286524afd01540ab525b1048a55c4efcca62","width":2448,"height":3264}]"®
-•[{"URL":"/image/a7059e01ed50cc19979e9dccf25ff39662f41911","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"a7059e01ed50cc19979e9dccf25ff39662f41911","width":3264,"height":2448},{"URL":"/image/6508a12b9a798d5262f0d09c450ec4c371bfa165","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6508a12b9a798d5262f0d09c450ec4c371bfa165","width":3264,"height":2448},{"URL":"/image/9c699c2d38160a02a93e7d0ea9275a9d6a489b84","licence":"CC BY-SA 4.0","media_type":"view","sha1":"9c699c2d38160a02a93e7d0ea9275a9d6a489b84","width":3264,"height":2448}]"®
-•[{"URL":"/image/b03ab4c4c3214bb978cab05486a51dac34a43b5e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b03ab4c4c3214bb978cab05486a51dac34a43b5e","width":3840,"height":2160},{"URL":"/image/759ad688e95d994298bc8f23000720ec3c6de156","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"759ad688e95d994298bc8f23000720ec3c6de156","width":4096,"height":3072},{"URL":"/image/ef547bb2f6299ee26cf85470a0592790dc84ce2a","licence":"CC BY-SA 4.0","media_type":"view","sha1":"ef547bb2f6299ee26cf85470a0592790dc84ce2a","width":4096,"height":3072}]"®
-•[{"URL":"/image/b3efe7473f8d82ec07cadbc7cfd3700aee250280","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b3efe7473f8d82ec07cadbc7cfd3700aee250280","width":4032,"height":3024},{"URL":"/image/d19ae932c4338346248b583f58b189f79f3928c2","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"d19ae932c4338346248b583f58b189f79f3928c2","width":4032,"height":3024},{"URL":"/image/46c6f25fb248c1008d00a3f7dea0d68d3c6f0461","licence":"CC BY-SA 4.0","media_type":"view","sha1":"46c6f25fb248c1008d00a3f7dea0d68d3c6f0461","width":4032,"height":3024}]"®
-•[{"URL":"/image/b766f829867892e8ab01417446c1c254512bd8bb","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b766f829867892e8ab01417446c1c254512bd8bb","width":4608,"height":3456},{"URL":"/image/7990a894c875204bef29e367cb27e3d64bed3e5a","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7990a894c875204bef29e367cb27e3d64bed3e5a","width":4608,"height":3456},{"URL":"/image/868ba3cda73d04b4a25ca06e832ed0ab653b3eac","licence":"CC BY-SA 4.0","media_type":"view","sha1":"868ba3cda73d04b4a25ca06e832ed0ab653b3eac","width":4608,"height":3456}]"®
-•[{"URL":"/image/b8d3d28265b8c1139aeb2ea89db02563f6e5031f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b8d3d28265b8c1139aeb2ea89db02563f6e5031f","width":4096,"height":3072},{"URL":"/image/3de72983e65155f8c98f4985fa2c1071fe41a677","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"3de72983e65155f8c98f4985fa2c1071fe41a677","width":4096,"height":3072},{"URL":"/image/db4a09b0f030c68a1c43d12586dc0baf7710b259","licence":"CC BY-SA 4.0","media_type":"view","sha1":"db4a09b0f030c68a1c43d12586dc0baf7710b259","width":4096,"height":3072}]"®
-•[{"URL":"/image/b91380dbaba154a4b574812cca6d69cfc91605b4","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b91380dbaba154a4b574812cca6d69cfc91605b4","width":4032,"height":3024},{"URL":"/image/7647a3349c2f7980192c590c4b6ae8d025c3fd8e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7647a3349c2f7980192c590c4b6ae8d025c3fd8e","width":4032,"height":3024},{"URL":"/image/8e973587b2243b975ebe6ed02e8f2b1f3362e95b","licence":"CC BY-SA 4.0","media_type":"view","sha1":"8e973587b2243b975ebe6ed02e8f2b1f3362e95b","width":4032,"height":3024}]"®
-•[{"URL":"/image/cbf142af9c6c64d584884a4a124a16e36ca40453","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"cbf142af9c6c64d584884a4a124a16e36ca40453","width":4032,"height":3024},{"URL":"/image/9497127c102aae637e94d19e246c779b1c182534","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"9497127c102aae637e94d19e246c779b1c182534","width":4032,"height":3024},{"URL":"/image/b216a3cba9f744f73afbf649c4691ad4418f85eb","licence":"CC BY-SA 4.0","media_type":"view","sha1":"b216a3cba9f744f73afbf649c4691ad4418f85eb","width":4032,"height":3024}]"®
-•[{"URL":"/image/cc3cb15e11b8ce6bafd09b552cf8bb0d1fd1c1dc","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"cc3cb15e11b8ce6bafd09b552cf8bb0d1fd1c1dc","width":3264,"height":2448},{"URL":"/image/033bf33e4302202d15674c59eb5a698355720290","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"033bf33e4302202d15674c59eb5a698355720290","width":3264,"height":2448},{"URL":"/image/f60e00e80617f6f0da4f4134289419bb5246b668","licence":"CC BY-SA 4.0","media_type":"view","sha1":"f60e00e80617f6f0da4f4134289419bb5246b668","width":2448,"height":3264}]"®
-•[{"URL":"/image/cf05c96424be95b8ed4ec1d7e10aaeaeb6bf2c46","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"cf05c96424be95b8ed4ec1d7e10aaeaeb6bf2c46","width":4096,"height":3072},{"URL":"/image/b65f92d0e3da545902eb9d8443365b164f6e2817","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"b65f92d0e3da545902eb9d8443365b164f6e2817","width":4096,"height":3072},{"URL":"/image/a7f42bf2f3a2d814f4978bcae43818b7c492f0e8","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a7f42bf2f3a2d814f4978bcae43818b7c492f0e8","width":4096,"height":3072}]"®
-•[{"URL":"/image/cfb3ed92a4104c065d2e3ad0306271d87ef59688","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"cfb3ed92a4104c065d2e3ad0306271d87ef59688","width":4096,"height":3072},{"URL":"/image/a7d2a557d98dd220361b509f2f146b31bfd5528f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"a7d2a557d98dd220361b509f2f146b31bfd5528f","width":4096,"height":3072},{"URL":"/image/93795c9be928dce04aaaf169a82973dc51db1864","licence":"CC BY-SA 4.0","media_type":"view","sha1":"93795c9be928dce04aaaf169a82973dc51db1864","width":4096,"height":3072}]"®
-•[{"URL":"/image/d02398fb5fc0864dc545a1367bb526d07e018abb","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d02398fb5fc0864dc545a1367bb526d07e018abb","width":4032,"height":3024},{"URL":"/image/dd79bf63c97be4efb40f48e224d6517bdb4b65fc","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"dd79bf63c97be4efb40f48e224d6517bdb4b65fc","width":4032,"height":3024},{"URL":"/image/dd883787a8e31ca0d274a24c6f4587cabdb02274","licence":"CC BY-SA 4.0","media_type":"view","sha1":"dd883787a8e31ca0d274a24c6f4587cabdb02274","width":4032,"height":3024}]"®
-•[{"URL":"/image/d09c02a88f4d39e4fcbf0a5ac6eaae27bd232292","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d09c02a88f4d39e4fcbf0a5ac6eaae27bd232292","width":4032,"height":3024},{"URL":"/image/33f955b2857917c3e2383663adb72474c4100e59","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"33f955b2857917c3e2383663adb72474c4100e59","width":4032,"height":3024},{"URL":"/image/5dfdbddb94540e1b95cf2c0948f130b62cf66876","licence":"CC BY-SA 4.0","media_type":"view","sha1":"5dfdbddb94540e1b95cf2c0948f130b62cf66876","width":4032,"height":3024}]"®
-•[{"URL":"/image/d48ade6e53d563f15624a4432dc45233cf89db70","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d48ade6e53d563f15624a4432dc45233cf89db70","width":5184,"height":2920},{"URL":"/image/34806603754c3478f836088211c8ba0874c61429","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"34806603754c3478f836088211c8ba0874c61429","width":5184,"height":2920},{"URL":"/image/3c7928adf1e0b85a0a71f5beec42531bb13a4424","licence":"CC BY-SA 4.0","media_type":"view","sha1":"3c7928adf1e0b85a0a71f5beec42531bb13a4424","width":5184,"height":2920}]"®
-•[{"URL":"/image/d4c3632a95b7d96360cd756d13627249d3d16c5c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d4c3632a95b7d96360cd756d13627249d3d16c5c","width":4032,"height":3024},{"URL":"/image/85bf268c22053acce6df5bbbd32b7cda9c48997e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"85bf268c22053acce6df5bbbd32b7cda9c48997e","width":4032,"height":3024},{"URL":"/image/93f8f0fdd907120b0312ff93ed3498413a956b1c","licence":"CC BY-SA 4.0","media_type":"view","sha1":"93f8f0fdd907120b0312ff93ed3498413a956b1c","width":4032,"height":3024}]"®
-•[{"URL":"/image/dc28f28c75efc6b3d43542280e362177dcea4d6b","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"dc28f28c75efc6b3d43542280e362177dcea4d6b","width":3264,"height":2448},{"URL":"/image/1523407e2ccb16bc8edbb58ada3451ee0b000f84","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"1523407e2ccb16bc8edbb58ada3451ee0b000f84","width":4096,"height":3072},{"URL":"/image/d9f39ab33435bbd00eb96cf37aadf3f7c3fad09f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"d9f39ab33435bbd00eb96cf37aadf3f7c3fad09f","width":4096,"height":3072}]"®
-•[{"URL":"/image/df3943478a0d6575e8f7849ac89e8181a8f4d0b4","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"df3943478a0d6575e8f7849ac89e8181a8f4d0b4","width":2592,"height":1460},{"URL":"/image/f02bd5d11dc38296af875af7605459c0de174b6b","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"f02bd5d11dc38296af875af7605459c0de174b6b","width":2592,"height":1460},{"URL":"/image/cc606aa90796d8805ad86c3e4460ad97dba1f076","licence":"CC BY-SA 4.0","media_type":"view","sha1":"cc606aa90796d8805ad86c3e4460ad97dba1f076","width":2592,"height":1460}]"®
-•[{"URL":"/image/e3460b62adf55b551d705115ad516edb3e65bfee","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e3460b62adf55b551d705115ad516edb3e65bfee","width":4576,"height":2576},{"URL":"/image/20ba5e4d66ca434dec77d3103d596977dde31912","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"20ba5e4d66ca434dec77d3103d596977dde31912","width":4576,"height":2576},{"URL":"/image/41b3f331ef3ccea204ffca0ef460a5960286aa28","licence":"CC BY-SA 4.0","media_type":"view","sha1":"41b3f331ef3ccea204ffca0ef460a5960286aa28","width":2576,"height":4576}]"®
-•[{"URL":"/image/e46582d6472fec440a9cdbeff147fbb40a8fa90f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e46582d6472fec440a9cdbeff147fbb40a8fa90f","width":4096,"height":3072},{"URL":"/image/68fffd1d34d8709612b13a6ad168fa63476536af","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"68fffd1d34d8709612b13a6ad168fa63476536af","width":4096,"height":3072},{"URL":"/image/6a6bc61e10099651efd7706c6c23a565b3b2704e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"6a6bc61e10099651efd7706c6c23a565b3b2704e","width":4096,"height":3072}]"®
-•[{"URL":"/image/ecec83b243fa8277241d91334923022d4a861bc5","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ecec83b243fa8277241d91334923022d4a861bc5","width":4096,"height":3072},{"URL":"/image/5efa7d46173b180cffeeac11cc6b547716467691","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5efa7d46173b180cffeeac11cc6b547716467691","width":4096,"height":3072},{"URL":"/image/b56b8be0414de9c93678c202b8b770a3c4bf1ded","licence":"CC BY-SA 4.0","media_type":"view","sha1":"b56b8be0414de9c93678c202b8b770a3c4bf1ded","width":4096,"height":3072}]"®
-•[{"URL":"/image/eec80e4b2820760cc6cf1768fff6c9a13015f437","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"eec80e4b2820760cc6cf1768fff6c9a13015f437","width":4576,"height":2576},{"URL":"/image/3ed5cce5fe5b3c65564350185f604724cee9814d","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"3ed5cce5fe5b3c65564350185f604724cee9814d","width":4576,"height":2576},{"URL":"/image/a3539131cb385996d722746bae5de5162f506ee7","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a3539131cb385996d722746bae5de5162f506ee7","width":4576,"height":2576}]"®
-•[{"URL":"/image/f21bbc3ee4edd65e97be9f4913bffbbabc27ea6f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f21bbc3ee4edd65e97be9f4913bffbbabc27ea6f","width":4032,"height":3024},{"URL":"/image/992322ac6adc6fb475e1a00c0749a154ab01f9f9","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"992322ac6adc6fb475e1a00c0749a154ab01f9f9","width":4096,"height":3072},{"URL":"/image/2eb03353bea67c9a038037011a557bb0734a886f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"2eb03353bea67c9a038037011a557bb0734a886f","width":4096,"height":3072}]"®
-•[{"URL":"/image/f625395ba248aa60b7ddcccecd7786fe5f2f05fb","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f625395ba248aa60b7ddcccecd7786fe5f2f05fb","width":3264,"height":2448},{"URL":"/image/41fa5f6652d09bcfc74aea2e36a1a50a00c40680","licence":"CC BY-SA 4.0","media_type":"view","sha1":"41fa5f6652d09bcfc74aea2e36a1a50a00c40680","width":3264,"height":2448},{"URL":"/image/2a91fcb1eaab6210ba4e9aae240e8f179ee77396","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2a91fcb1eaab6210ba4e9aae240e8f179ee77396","width":4096,"height":3072}]"®
-•[{"URL":"/image/f93b962e94f79c61beb7afda426e2a7ad9eb1198","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f93b962e94f79c61beb7afda426e2a7ad9eb1198","width":4096,"height":3072},{"URL":"/image/5da7bf610c8578779c65a07ba2573749dd935489","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5da7bf610c8578779c65a07ba2573749dd935489","width":4096,"height":3072},{"URL":"/image/95adf899d426c046d6a475535d525d59c08b611d","licence":"CC BY-SA 4.0","media_type":"view","sha1":"95adf899d426c046d6a475535d525d59c08b611d","width":4096,"height":3072}]"®
-•[{"URL":"/image/ffe40e1d2d97fd72ba4a519352f69381d121c04e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ffe40e1d2d97fd72ba4a519352f69381d121c04e","width":4096,"height":3072},{"URL":"/image/2973aee9ef887f71166c274d4246a49a3aca654d","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2973aee9ef887f71166c274d4246a49a3aca654d","width":4096,"height":3072},{"URL":"/image/71d7b5b68d9657e6369063f9ccb7b0a09b9e5ad5","licence":"CC BY-SA 4.0","media_type":"view","sha1":"71d7b5b68d9657e6369063f9ccb7b0a09b9e5ad5","width":4096,"height":3072}]"©
-¶[{"URL":"/image/400bccf68947c0c29fb4b394f9bbe2b3080cf434","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"400bccf68947c0c29fb4b394f9bbe2b3080cf434","width":4608,"height":3456},{"URL":"/image/68a705154991d8fa76b4120f6ee63467af616e7a","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"68a705154991d8fa76b4120f6ee63467af616e7a","width":4096,"height":3072},{"URL":"/image/2b21af9162d5827cf9c33920fc6ac4b5ccec08c9","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2b21af9162d5827cf9c33920fc6ac4b5ccec08c9","width":4096,"height":3072}]"≠
-™Paul 'Chaz' Curran
-02.10.1965-31.07.2015
-He lived for those he loved and those he loved will always
-remember and miss him.
-LOVE FROM SPACEJUNK S.C. FRIENDS AND FAMILY"±
-ÆIn memory of Fletcher Kendrick Ivimey
-stillborn on 24 August 2010
-son of Jenny and James Ivimey. Little brother of Sylvie and twin of Lucas
-What will survive of us is love"∏
-µ[{"URL":"/image/c4ca36aa5b9b314015210245e2dacf82b3a8eef0","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c4ca36aa5b9b314015210245e2dacf82b3a8eef0","width":3264,"height":2448}]"ª
-∏In loving memory of Harold James Cooper
-Husband and father who loved to walk on the heath
-With love 1923 - 1994
+•[{"URL":"/image/23d46527ba81e3a8068ff8492cc8f9c2edc5b589","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"23d46527ba81e3a8068ff8492cc8f9c2edc5b589","width":4032,"height":3024},{"URL":"/image/d4f158f70d7ce99ffae0aa5a28a352d72b9b6a30","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"d4f158f70d7ce99ffae0aa5a28a352d72b9b6a30","width":4096,"height":3072},{"URL":"/image/0883b2c1538e023e7898a80a20e39d98619e074f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"0883b2c1538e023e7898a80a20e39d98619e074f","width":4096,"height":3072}]"®
+•[{"URL":"/image/28e597efba62940016d31dc67628041bb94f32c1","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"28e597efba62940016d31dc67628041bb94f32c1","width":4160,"height":3120},{"URL":"/image/0f8c41d40127a5ca7f2b92f90aac33736a275b23","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0f8c41d40127a5ca7f2b92f90aac33736a275b23","width":4160,"height":3120},{"URL":"/image/0b305aea4c7fe3de92394ff64bb95148dfca754c","licence":"CC BY-SA 4.0","media_type":"view","sha1":"0b305aea4c7fe3de92394ff64bb95148dfca754c","width":3120,"height":4160}]"®
+•[{"URL":"/image/2e84947fcfb4d0e33fe89e76d343ac7abef73451","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"2e84947fcfb4d0e33fe89e76d343ac7abef73451","width":4032,"height":3024},{"URL":"/image/67966321e98c576a1e164e39654521a9ce948d40","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"67966321e98c576a1e164e39654521a9ce948d40","width":4032,"height":3024},{"URL":"/image/81fb8018a49b825eb17cebb23dd97a59242b0185","licence":"CC BY-SA 4.0","media_type":"view","sha1":"81fb8018a49b825eb17cebb23dd97a59242b0185","width":4032,"height":3024}]"®
+•[{"URL":"/image/2f65133bb9efedd44b1f87d2a731560edb2da80b","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"2f65133bb9efedd44b1f87d2a731560edb2da80b","width":4576,"height":2576},{"URL":"/image/96a6aa9a50868f9128eb172e53357af4d118d4fc","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"96a6aa9a50868f9128eb172e53357af4d118d4fc","width":4576,"height":2576},{"URL":"/image/a5bd2f02122e94c822d6098ed08d2c6f692d9331","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a5bd2f02122e94c822d6098ed08d2c6f692d9331","width":4576,"height":2576}]"®
+•[{"URL":"/image/328d4980d6113912d986123ce6c5d93ed8861efa","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"328d4980d6113912d986123ce6c5d93ed8861efa","width":4032,"height":3024},{"URL":"/image/b30a8176e57878591761aac65887a51871be9aa3","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"b30a8176e57878591761aac65887a51871be9aa3","width":4032,"height":3024},{"URL":"/image/8213e11da0f05ddcf58034eb12f7018e34dd3b10","licence":"CC BY-SA 4.0","media_type":"view","sha1":"8213e11da0f05ddcf58034eb12f7018e34dd3b10","width":4032,"height":3024}]"®
+•[{"URL":"/image/3580a2bff1c34ecbfdee390ff07ac52d963adca5","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"3580a2bff1c34ecbfdee390ff07ac52d963adca5","width":4096,"height":3072},{"URL":"/image/81bf7da2cfe006de37e541c354242df221d54838","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"81bf7da2cfe006de37e541c354242df221d54838","width":4096,"height":3072},{"URL":"/image/a0e01d2493181cc5cb41a3503be9c64f78053c3e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a0e01d2493181cc5cb41a3503be9c64f78053c3e","width":4096,"height":3072}]"®
+•[{"URL":"/image/3727d620facecf4a89e213cc8bf3b016a98c4e30","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"3727d620facecf4a89e213cc8bf3b016a98c4e30","width":2592,"height":1460},{"URL":"/image/2d94774556afbb11797d6fdf96ef04db61c93ba9","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2d94774556afbb11797d6fdf96ef04db61c93ba9","width":1460,"height":2592},{"URL":"/image/00f2410c94e939412adf781973f21db725fc0a94","licence":"CC BY-SA 4.0","media_type":"view","sha1":"00f2410c94e939412adf781973f21db725fc0a94","width":2592,"height":1460}]"®
+•[{"URL":"/image/46d7f2ebf13ba5ac4c8ebe57ab326a3cd21395ac","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"46d7f2ebf13ba5ac4c8ebe57ab326a3cd21395ac","width":4160,"height":3120},{"URL":"/image/5bdb889fae494301e2ce00aa533951fac1190e0b","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5bdb889fae494301e2ce00aa533951fac1190e0b","width":4096,"height":3072},{"URL":"/image/3eccf14ba7404478bb7f427ad156807ea9dd8a7f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"3eccf14ba7404478bb7f427ad156807ea9dd8a7f","width":4096,"height":3072}]"®
+•[{"URL":"/image/4fc526a9205e492ab89a6d15f8714aa7affe0f36","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"4fc526a9205e492ab89a6d15f8714aa7affe0f36","width":4096,"height":3072},{"URL":"/image/d2b7bda4657e3b04e846431b13c17fdc17d625cc","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"d2b7bda4657e3b04e846431b13c17fdc17d625cc","width":4096,"height":3072},{"URL":"/image/1f267213e6098dba4580778c18f7dcc65c710f69","licence":"CC BY-SA 4.0","media_type":"view","sha1":"1f267213e6098dba4580778c18f7dcc65c710f69","width":4096,"height":3072}]"®
+•[{"URL":"/image/5b5236655acd636ef23c1b566ca8de399d74019e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"5b5236655acd636ef23c1b566ca8de399d74019e","width":5184,"height":2920},{"URL":"/image/0db1468e1e886ef9bbb34c696adc4bcb56130740","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0db1468e1e886ef9bbb34c696adc4bcb56130740","width":5184,"height":2920},{"URL":"/image/441a025bfb2ed0e3f0ad7650dcf2cc10df0fd5f1","licence":"CC BY-SA 4.0","media_type":"view","sha1":"441a025bfb2ed0e3f0ad7650dcf2cc10df0fd5f1","width":5184,"height":2920}]"®
+•[{"URL":"/image/668c971adfb875103d27f9a8ffad60192e335774","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"668c971adfb875103d27f9a8ffad60192e335774","width":1512,"height":2016},{"URL":"/image/14dcbfa146a49007ca1d84dab77a6e9ab246caf8","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"14dcbfa146a49007ca1d84dab77a6e9ab246caf8","width":2016,"height":1512},{"URL":"/image/2c29ffc0544eb72ae8e4aee32f27247520b20ef4","licence":"CC BY-SA 4.0","media_type":"view","sha1":"2c29ffc0544eb72ae8e4aee32f27247520b20ef4","width":2016,"height":1512}]"®
+•[{"URL":"/image/66cc71d38512e2ac290cd4e68d1670950b264b9d","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"66cc71d38512e2ac290cd4e68d1670950b264b9d","width":4096,"height":3072},{"URL":"/image/e840d5182ba99c6e709632e6549f0d7e4cb5464e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"e840d5182ba99c6e709632e6549f0d7e4cb5464e","width":4096,"height":3072},{"URL":"/image/921c0464735ea688b7a8165f1cb6ae90a873f89e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"921c0464735ea688b7a8165f1cb6ae90a873f89e","width":4096,"height":3072}]"®
+•[{"URL":"/image/6753e38dddda10a3d400540bb2100557c640ab76","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6753e38dddda10a3d400540bb2100557c640ab76","width":4096,"height":3072},{"URL":"/image/7502b85dcda96a399ded7c3f3a88c4e9c3134225","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7502b85dcda96a399ded7c3f3a88c4e9c3134225","width":4096,"height":3072},{"URL":"/image/b1bf97c05c8e2cfd4fc828de7bc069cea37d53ea","licence":"CC BY-SA 4.0","media_type":"view","sha1":"b1bf97c05c8e2cfd4fc828de7bc069cea37d53ea","width":4096,"height":3072}]"®
+•[{"URL":"/image/6aa16becc0fdf2e4317da38565534dcfef3ae2c6","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6aa16becc0fdf2e4317da38565534dcfef3ae2c6","width":3264,"height":2448},{"URL":"/image/73eb4b733b9222dd6fc6710f101900f6841e4408","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"73eb4b733b9222dd6fc6710f101900f6841e4408","width":3264,"height":2448},{"URL":"/image/95d4d448a45c21efcc322abd83f52e99d9d5df5a","licence":"CC BY-SA 4.0","media_type":"view","sha1":"95d4d448a45c21efcc322abd83f52e99d9d5df5a","width":3264,"height":2448}]"®
+•[{"URL":"/image/70f6484740c70896b15fee9d272b2fcd346551f8","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"70f6484740c70896b15fee9d272b2fcd346551f8","width":4032,"height":3024},{"URL":"/image/3a0c1dab6c769292486b812207b058d23b5bd392","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"3a0c1dab6c769292486b812207b058d23b5bd392","width":4096,"height":3072},{"URL":"/image/9fdca7fb6def88cfcd74f8456088154e758c9379","licence":"CC BY-SA 4.0","media_type":"view","sha1":"9fdca7fb6def88cfcd74f8456088154e758c9379","width":4096,"height":3072}]"®
+•[{"URL":"/image/73db06e570b0a73b0fff6658e07d3b618912afcf","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"73db06e570b0a73b0fff6658e07d3b618912afcf","width":4096,"height":3072},{"URL":"/image/e6dcba5ef453b59846d865f2cac1ce012c371123","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"e6dcba5ef453b59846d865f2cac1ce012c371123","width":4096,"height":3072},{"URL":"/image/0a1f4bc139747592bb9efac3539edb9e1be9895c","licence":"CC BY-SA 4.0","media_type":"view","sha1":"0a1f4bc139747592bb9efac3539edb9e1be9895c","width":4096,"height":3072}]"®
+•[{"URL":"/image/76b47ed5b671e87445e9425a131a2699591e01f7","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"76b47ed5b671e87445e9425a131a2699591e01f7","width":4096,"height":3072},{"URL":"/image/df4f93333cf6d72c9eaac6ea410e3667dde720f1","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"df4f93333cf6d72c9eaac6ea410e3667dde720f1","width":4096,"height":3072},{"URL":"/image/e192f8e1b9f41b9f744381970ae5e45db9ecab75","licence":"CC BY-SA 4.0","media_type":"view","sha1":"e192f8e1b9f41b9f744381970ae5e45db9ecab75","width":4096,"height":3072}]"®
+•[{"URL":"/image/807f04fd105b0fc34a34f3987cfbc11211030d80","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"807f04fd105b0fc34a34f3987cfbc11211030d80","width":4096,"height":3072},{"URL":"/image/6fdeb68ab3d7d58d490278fb4be5d03942d4e08f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"6fdeb68ab3d7d58d490278fb4be5d03942d4e08f","width":4096,"height":3072},{"URL":"/image/631497cf21a0db64363cab78daa2c2c6e029feef","licence":"CC BY-SA 4.0","media_type":"view","sha1":"631497cf21a0db64363cab78daa2c2c6e029feef","width":4096,"height":3072}]"®
+•[{"URL":"/image/81c7ab9180e998ddf936552ab9a113558c9c2d37","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"81c7ab9180e998ddf936552ab9a113558c9c2d37","width":5184,"height":2920},{"URL":"/image/0da380916910f931c4ef59b0223188121e1aa96f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0da380916910f931c4ef59b0223188121e1aa96f","width":5184,"height":2920},{"URL":"/image/b1c4a5f9d5bbaa9b297fec99a33cb3e7a2d9f771","licence":"CC BY-SA 4.0","media_type":"view","sha1":"b1c4a5f9d5bbaa9b297fec99a33cb3e7a2d9f771","width":5184,"height":2920}]"®
+•[{"URL":"/image/840a4213be8077ce979481971565f6e75f5d4279","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"840a4213be8077ce979481971565f6e75f5d4279","width":4576,"height":2576},{"URL":"/image/0d719a8657360c0e473a1c0b815c912420eeea53","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0d719a8657360c0e473a1c0b815c912420eeea53","width":4576,"height":2576},{"URL":"/image/18d2b180a0841ee74526a6fd441734a28b2ad52c","licence":"CC BY-SA 4.0","media_type":"view","sha1":"18d2b180a0841ee74526a6fd441734a28b2ad52c","width":4576,"height":2576}]"®
+•[{"URL":"/image/8d504c619364db12e3a17b08a166f0e84b124e9f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"8d504c619364db12e3a17b08a166f0e84b124e9f","width":4096,"height":3072},{"URL":"/image/cb57e113e88af433103d350ac14c110bfa24aea9","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"cb57e113e88af433103d350ac14c110bfa24aea9","width":4096,"height":3072},{"URL":"/image/88712429dcdd0d99e2ffec5abf102ba14f3b5202","licence":"CC BY-SA 4.0","media_type":"view","sha1":"88712429dcdd0d99e2ffec5abf102ba14f3b5202","width":4096,"height":3072}]"®
+•[{"URL":"/image/8fcda2e910913adc2f23682366737643c502c949","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"8fcda2e910913adc2f23682366737643c502c949","width":4096,"height":3072},{"URL":"/image/c7e43a891b1282a83609382839b226af8c78e3a8","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"c7e43a891b1282a83609382839b226af8c78e3a8","width":4096,"height":3072},{"URL":"/image/5449bf0bd1a5f576eda74c214f612847ca66220b","licence":"CC BY-SA 4.0","media_type":"view","sha1":"5449bf0bd1a5f576eda74c214f612847ca66220b","width":4096,"height":3072}]"®
+•[{"URL":"/image/9bce09347aab7d265432cf2b6ae273150274f173","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9bce09347aab7d265432cf2b6ae273150274f173","width":4096,"height":3072},{"URL":"/image/aa93302b669c708ee9963d3875f39ad3f686ad0e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"aa93302b669c708ee9963d3875f39ad3f686ad0e","width":4096,"height":3072},{"URL":"/image/6aa40283e614ca27c224a989b9337dc5d41b2484","licence":"CC BY-SA 4.0","media_type":"view","sha1":"6aa40283e614ca27c224a989b9337dc5d41b2484","width":4096,"height":3072}]"®
+•[{"URL":"/image/9f3c43064a2adc7e1e4467eca26e2bf7c846659e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9f3c43064a2adc7e1e4467eca26e2bf7c846659e","width":4080,"height":3072},{"URL":"/image/8a91ac0065406eef587367128c956cfd666161e8","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"8a91ac0065406eef587367128c956cfd666161e8","width":4080,"height":3072},{"URL":"/image/02495bb1e974362bb7e2fc1003123c8159aee224","licence":"CC BY-SA 4.0","media_type":"view","sha1":"02495bb1e974362bb7e2fc1003123c8159aee224","width":4080,"height":3072}]"®
+•[{"URL":"/image/a32cc335bffeb627dfe7c6ae260b51cb775df6e5","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"a32cc335bffeb627dfe7c6ae260b51cb775df6e5","width":4096,"height":3072},{"URL":"/image/2f08e8490e857dcede2670fb5b96783beb60563b","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"2f08e8490e857dcede2670fb5b96783beb60563b","width":4096,"height":3072},{"URL":"/image/19f28eb10f39ae336acce14ae540a49287f619e9","licence":"CC BY-SA 4.0","media_type":"view","sha1":"19f28eb10f39ae336acce14ae540a49287f619e9","width":4096,"height":3072}]"®
+•[{"URL":"/image/a3bae6ab36609d83f320a27701628a2029d52cb0","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"a3bae6ab36609d83f320a27701628a2029d52cb0","width":4032,"height":3024},{"URL":"/image/18cf151fa5d0346cc2b78c010a34ce63aebf4e15","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"18cf151fa5d0346cc2b78c010a34ce63aebf4e15","width":4032,"height":3024},{"URL":"/image/a1e2963dd36b879e5c0162102998ec3769cb876e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a1e2963dd36b879e5c0162102998ec3769cb876e","width":4032,"height":3024}]"®
+•[{"URL":"/image/a8decbaf58f29e7bfd9e827023db68a3007dd7aa","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"a8decbaf58f29e7bfd9e827023db68a3007dd7aa","width":4608,"height":3456},{"URL":"/image/4cdb88f2bdb6f6fe9c5186a6ab7cde9e98b8091f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"4cdb88f2bdb6f6fe9c5186a6ab7cde9e98b8091f","width":4096,"height":3072},{"URL":"/image/2977d93b652c85fe01fdb9f8290d94318b9f789f","licence":"CC BY-SA 4.0","media_type":"view","sha1":"2977d93b652c85fe01fdb9f8290d94318b9f789f","width":4096,"height":3072}]"®
+•[{"URL":"/image/ab39e2a40b87bf59e3dd22b28d3067ce43850db9","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ab39e2a40b87bf59e3dd22b28d3067ce43850db9","width":4032,"height":3024},{"URL":"/image/fdb61b610ba9b9d8d7dd7a814456bb898110871c","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"fdb61b610ba9b9d8d7dd7a814456bb898110871c","width":4032,"height":3024},{"URL":"/image/82990a79c2fac3fdd01fe3b72057bffc34d9334d","licence":"CC BY-SA 4.0","media_type":"view","sha1":"82990a79c2fac3fdd01fe3b72057bffc34d9334d","width":4032,"height":3024}]"®
+•[{"URL":"/image/acf839acfda22930cc5ed95e207a56e7b03c92db","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"acf839acfda22930cc5ed95e207a56e7b03c92db","width":3840,"height":2160},{"URL":"/image/9bc5a5de5c92c1128c8a9d3116cba914c2f7c434","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"9bc5a5de5c92c1128c8a9d3116cba914c2f7c434","width":4096,"height":3072},{"URL":"/image/be212e0d20f7e84664c4f864256a1cc7c9e2882b","licence":"CC BY-SA 4.0","media_type":"view","sha1":"be212e0d20f7e84664c4f864256a1cc7c9e2882b","width":4096,"height":3072}]"®
+•[{"URL":"/image/b03c0ee97322fe0a0a81960189ee7dead6ef4a1c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b03c0ee97322fe0a0a81960189ee7dead6ef4a1c","width":4096,"height":3072},{"URL":"/image/e9cb4c8e8ac9395f83adcd22c66fd6b0f637a144","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"e9cb4c8e8ac9395f83adcd22c66fd6b0f637a144","width":4096,"height":3072},{"URL":"/image/ef68070deaa87d7fe810ed9ae300a5526d79b491","licence":"CC BY-SA 4.0","media_type":"view","sha1":"ef68070deaa87d7fe810ed9ae300a5526d79b491","width":4096,"height":3072}]"®
+•[{"URL":"/image/c7e4f4ea8616d335e8eb9629d8e38aa1d8ec7201","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"c7e4f4ea8616d335e8eb9629d8e38aa1d8ec7201","width":4608,"height":3456},{"URL":"/image/7aeb6b9d87091a50beac49bb726b540353ca2cf3","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"7aeb6b9d87091a50beac49bb726b540353ca2cf3","width":4096,"height":3072},{"URL":"/image/6dc10980f071ab1fbd7e740ed917460a6c338a25","licence":"CC BY-SA 4.0","media_type":"view","sha1":"6dc10980f071ab1fbd7e740ed917460a6c338a25","width":4096,"height":3072}]"®
+•[{"URL":"/image/cf6388a2b41885bb4c03152a30e294263adeae65","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"cf6388a2b41885bb4c03152a30e294263adeae65","width":4032,"height":3024},{"URL":"/image/3e39be24286928942242f2ab60fe3aae6e1138f9","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"3e39be24286928942242f2ab60fe3aae6e1138f9","width":4032,"height":3024},{"URL":"/image/a4c6caf28f6d5d6772dd94ab4c7c37f2bb2ba8ca","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a4c6caf28f6d5d6772dd94ab4c7c37f2bb2ba8ca","width":4032,"height":3024}]"®
+•[{"URL":"/image/db58c5c98326be1b9cda68fe8c4c6d95ecb79a33","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"db58c5c98326be1b9cda68fe8c4c6d95ecb79a33","width":4032,"height":3024},{"URL":"/image/591a6495d254b3e8e51fc5268bc5e16e7cdbdfaf","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"591a6495d254b3e8e51fc5268bc5e16e7cdbdfaf","width":4032,"height":3024},{"URL":"/image/08b6001a00d73f5495af45823c9402724e945615","licence":"CC BY-SA 4.0","media_type":"view","sha1":"08b6001a00d73f5495af45823c9402724e945615","width":4032,"height":3024}]"®
+•[{"URL":"/image/de3c12c7ac5cb8c493caa6a8bc4f2901eb6275be","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"de3c12c7ac5cb8c493caa6a8bc4f2901eb6275be","width":2016,"height":1512},{"URL":"/image/96b007dffeec9f93516e8c9ec3c2bfcfefaeb243","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"96b007dffeec9f93516e8c9ec3c2bfcfefaeb243","width":2016,"height":1512},{"URL":"/image/2c80edadc1223552e492d560fe0084a72e1df3b9","licence":"CC BY-SA 4.0","media_type":"view","sha1":"2c80edadc1223552e492d560fe0084a72e1df3b9","width":2016,"height":1512}]"®
+•[{"URL":"/image/e278bf4535fc1c15507bdd11219f59006c61043d","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e278bf4535fc1c15507bdd11219f59006c61043d","width":5184,"height":2920},{"URL":"/image/d02fc517f067ca3c454706acfc4692cdb85307c9","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"d02fc517f067ca3c454706acfc4692cdb85307c9","width":5184,"height":2920},{"URL":"/image/e9c2511d7f7e9ae6e170a640549ac391a137f28d","licence":"CC BY-SA 4.0","media_type":"view","sha1":"e9c2511d7f7e9ae6e170a640549ac391a137f28d","width":5184,"height":2920}]"®
+•[{"URL":"/image/e80d882fbd6030307801ec1dcae77bde600b4bed","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e80d882fbd6030307801ec1dcae77bde600b4bed","width":4096,"height":3072},{"URL":"/image/9f1d955d87931739e93f2ad5af61c1aea952f86b","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"9f1d955d87931739e93f2ad5af61c1aea952f86b","width":4096,"height":3072},{"URL":"/image/250ef5a308a9b08ce4f1a20e56914ea7bfb5e844","licence":"CC BY-SA 4.0","media_type":"view","sha1":"250ef5a308a9b08ce4f1a20e56914ea7bfb5e844","width":4096,"height":3072}]"®
+•[{"URL":"/image/e8aac9134ca1c8c9379a1f16b0bf44f036c2f370","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e8aac9134ca1c8c9379a1f16b0bf44f036c2f370","width":4032,"height":3024},{"URL":"/image/12bcf047f328d07262a746b100410cf12a9e30bb","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"12bcf047f328d07262a746b100410cf12a9e30bb","width":4032,"height":3024},{"URL":"/image/5219e5f3700b3a2278b2f86e8795be238b48b86a","licence":"CC BY-SA 4.0","media_type":"view","sha1":"5219e5f3700b3a2278b2f86e8795be238b48b86a","width":4032,"height":3024}]"®
+•[{"URL":"/image/e9ff9250c4aeb552b2083277a0547dc526483611","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e9ff9250c4aeb552b2083277a0547dc526483611","width":5184,"height":2920},{"URL":"/image/5f739f62be3cb4eebd8eecefac7904fdae37d32e","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"5f739f62be3cb4eebd8eecefac7904fdae37d32e","width":5184,"height":2920},{"URL":"/image/7a2ca2303c2ba6f325c102f9cb8bd8e44d2ce06a","licence":"CC BY-SA 4.0","media_type":"view","sha1":"7a2ca2303c2ba6f325c102f9cb8bd8e44d2ce06a","width":5184,"height":2920}]"®
+•[{"URL":"/image/ecab9baf432b924845ac862dd35998026c1149c9","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ecab9baf432b924845ac862dd35998026c1149c9","width":3840,"height":2160},{"URL":"/image/f93a36ded87129bb53be7b4a5f64ed6777a4039d","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"f93a36ded87129bb53be7b4a5f64ed6777a4039d","width":3840,"height":2160},{"URL":"/image/50dadd17450cc4dd6fcf0afefee711f2d4a649d8","licence":"CC BY-SA 4.0","media_type":"view","sha1":"50dadd17450cc4dd6fcf0afefee711f2d4a649d8","width":3840,"height":2160}]"®
+•[{"URL":"/image/ed472ef24f16ce36ec4dff22f3950d69d7430935","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ed472ef24f16ce36ec4dff22f3950d69d7430935","width":4032,"height":3024},{"URL":"/image/56417fd4024a57e31dc142e3e5c3091c0caf7dc6","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"56417fd4024a57e31dc142e3e5c3091c0caf7dc6","width":4032,"height":3024},{"URL":"/image/d80bbad3b70a14b3bf83de6099573646014530e2","licence":"CC BY-SA 4.0","media_type":"view","sha1":"d80bbad3b70a14b3bf83de6099573646014530e2","width":4032,"height":3024}]"®
+•[{"URL":"/image/fe892985b8c8c9c25c1a1cf3dead9a57c82a646e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"fe892985b8c8c9c25c1a1cf3dead9a57c82a646e","width":4032,"height":3024},{"URL":"/image/e664821524c55637d0688734b5474d6398772246","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"e664821524c55637d0688734b5474d6398772246","width":4032,"height":3024},{"URL":"/image/ba002e0d89d15685d9a817006067032dbdd54dec","licence":"CC BY-SA 4.0","media_type":"view","sha1":"ba002e0d89d15685d9a817006067032dbdd54dec","width":4032,"height":3024}]"®
+•[{"URL":"/image/fffe7bbc4146e227a6f6209d0a8b2f7b71fa6f49","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"fffe7bbc4146e227a6f6209d0a8b2f7b71fa6f49","width":3840,"height":2160},{"URL":"/image/39a10ea0372f471fcd421a6e248313e7d40905b0","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"39a10ea0372f471fcd421a6e248313e7d40905b0","width":3840,"height":2160},{"URL":"/image/3e35317951d444092a7794a42dfaa4095404deb7","licence":"CC BY-SA 4.0","media_type":"view","sha1":"3e35317951d444092a7794a42dfaa4095404deb7","width":3840,"height":2160}]"´
+®in Loving and lasting memory of my precious angel
+BALAZS MIKLOS TOTH
+(7.1.1985 27.11 2013)
+He loved Battersea Park
+As did his mother Zsuzsanna (d31.12.2011)
+Gordon"≠
+™[LEFT]
+In Loving Memory of a Beloved Husband, Father and Grandfather
+Mr AYINLA ADE-OBA AWOJOBI
+3rd July 1935 -10th March 2014. E Sun Re O Ara-Oba.
 
-Also in memory of beloved wife and mother
-Maria Cooper 1925 - 1997"ø
-º[{"URL":"/image/00709136d7d36e60f631c6324713dc4dc37c744c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"00709136d7d36e60f631c6324713dc4dc37c744c","width":4032,"height":3024}]"ø
-º[{"URL":"/image/0d88d5322073865bb32d13bce3b62af0b02509e5","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"0d88d5322073865bb32d13bce3b62af0b02509e5","width":4608,"height":3456}]"ø
-º[{"URL":"/image/16e4f09def875043942691393a50f24ece9e01ff","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"16e4f09def875043942691393a50f24ece9e01ff","width":3159,"height":1410}]"ø
-º[{"URL":"/image/22b759a7099748aeae8586bbd162e19d3250a990","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"22b759a7099748aeae8586bbd162e19d3250a990","width":3840,"height":2160}]"ø
-º[{"URL":"/image/271f9daa04534fb2513caa3825d5ea622fad9efc","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"271f9daa04534fb2513caa3825d5ea622fad9efc","width":4032,"height":3024}]"ø
-º[{"URL":"/image/351a154eb5f94c632d070563821fe7309f891d46","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"351a154eb5f94c632d070563821fe7309f891d46","width":3840,"height":2160}]"ø
-º[{"URL":"/image/37743d9fcc9a2b5df46327fbccbfc5d660a798d2","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"37743d9fcc9a2b5df46327fbccbfc5d660a798d2","width":4032,"height":3024}]"ø
-º[{"URL":"/image/45737922606577610555f545d2289248068e3644","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"45737922606577610555f545d2289248068e3644","width":3840,"height":2160}]"ø
-º[{"URL":"/image/5f3fecb2a2ee9ced4c68a7f60c085797b823bdaa","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"5f3fecb2a2ee9ced4c68a7f60c085797b823bdaa","width":3264,"height":2448}]"ø
-º[{"URL":"/image/6996b857da9da6f6292a2547d6b5ee74ff30d6bb","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6996b857da9da6f6292a2547d6b5ee74ff30d6bb","width":4160,"height":3120}]"ø
-º[{"URL":"/image/772f2c88b00d3d830e0f9e4521c55483c6c9a7c6","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"772f2c88b00d3d830e0f9e4521c55483c6c9a7c6","width":2161,"height":1457}]"ø
-º[{"URL":"/image/892631c81d55d4981d8bf6cf42c694d35cbb41a9","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"892631c81d55d4981d8bf6cf42c694d35cbb41a9","width":4160,"height":3120}]"ø
-º[{"URL":"/image/ccdaa1cd9abc399a85b0388dbbc8ef94fc3a02af","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ccdaa1cd9abc399a85b0388dbbc8ef94fc3a02af","width":4032,"height":3024}]"ø
-º[{"URL":"/image/f9912b81adaf99ea01e4aa668d3278374b21384f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f9912b81adaf99ea01e4aa668d3278374b21384f","width":3840,"height":2160}]"À
-»Remembering all the lovely times spent here in Kelsey Park
-with our wonderful husband, dad & grandad
-ALAN FAVELL
-16. 6. 1939 ~ 21. 8. 2015
-"those we love don't go away they sit beside us everyday""Õ
- in Loving Memory of BRIAN MIST Naturalist and Conservationist
-For his Work and Dedication to the Park
-Who Died 8th May 2002 - Age 65
-Sadly missed by his wife Rosie and son Bradley and all his friends"’
-“Nigel Paul Roper
-25.01.1956 7.02.2014
-He lived for those he loved
-and those he lived will always
-remember and miss him
-A much loved husband, father, grandfather & friend
-A much loved son brother and uncle"‹
-Ÿ[{"URL":"/image/21a68b6681bc2668aba5c8afc9bdd89b635af937","licence":"CC BY-SA 4.0","media_type":"view","sha1":"21a68b6681bc2668aba5c8afc9bdd89b635af937","width":3264,"height":2448},{"URL":"/image/e249ec9378c4f5b9e54ef7a49ce48d9078c4b684","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e249ec9378c4f5b9e54ef7a49ce48d9078c4b684","width":4096,"height":3072},{"URL":"/image/fe66b0ed7121fae35a178df2e2891273be33406c","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"fe66b0ed7121fae35a178df2e2891273be33406c","width":4096,"height":3072},{"URL":"/image/d583f0fb9a6fcc6d0260e385e6490a16ffcf5471","licence":"CC BY-SA 4.0","media_type":"view","sha1":"d583f0fb9a6fcc6d0260e385e6490a16ffcf5471","width":4096,"height":3072}]"‚
-ﬂ[{"URL":"/image/871ca8d7e3156598cf77e4c0c7d2e781d2f78b9e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"871ca8d7e3156598cf77e4c0c7d2e781d2f78b9e","width":2528,"height":800},{"URL":"/image/e530fff6f1493dbf90be143db40a44e3c19f2751","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e530fff6f1493dbf90be143db40a44e3c19f2751","width":4096,"height":3072},{"URL":"/image/96632e1823d8c5a31bc294d67a12ef4a68c9490f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"96632e1823d8c5a31bc294d67a12ef4a68c9490f","width":4096,"height":3072},{"URL":"/image/abe17c02bc9099bf02bafb28d2d0b033f15da584","licence":"CC BY-SA 4.0","media_type":"view","sha1":"abe17c02bc9099bf02bafb28d2d0b033f15da584","width":4096,"height":3072}]"„
-‡[{"URL":"/image/63d82246323257b4f6ae2be720cad457720144fe","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"63d82246323257b4f6ae2be720cad457720144fe","width":4096,"height":3072},{"URL":"/image/a0d697e3cd3c4841f952ad7867e3102b41f4427f","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"a0d697e3cd3c4841f952ad7867e3102b41f4427f","width":4096,"height":3072},{"URL":"/image/2a3eabe88809a050a5b76d6451b1a19ae3bd79bc","licence":"CC BY-SA 4.0","media_type":"view","sha1":"2a3eabe88809a050a5b76d6451b1a19ae3bd79bc","width":4096,"height":3072},{"URL":"/image/1a150f3255cf641dca1b135b3472184373a7904f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"1a150f3255cf641dca1b135b3472184373a7904f","width":3404,"height":2065}]"Â
-‚This bench was donated to Greenwich Park
-By
-MAZE HILL SCHOOL
-Which closed on 25th July 2001
-The bench commemorates all of Maze Hill's achievements over its
-35 years as a school for children with special needs
-1966 - 2001"Û
-[{"URL":"/image/3bf9f6de1c352b0a7d1e620f319beb5f6c45b9f2","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"3bf9f6de1c352b0a7d1e620f319beb5f6c45b9f2","width":3840,"height":2160},{"URL":"/image/a0dd064c38dda297155068948e6a5cab0855a890","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a0dd064c38dda297155068948e6a5cab0855a890","width":3840,"height":2160}]"Û
-[{"URL":"/image/6b800eb65778bc8a6c6f370909143c0b71b26f83","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6b800eb65778bc8a6c6f370909143c0b71b26f83","width":3264,"height":2448},{"URL":"/image/346b7cce3aa6c69fee00b7347ecddee573e56f6e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"346b7cce3aa6c69fee00b7347ecddee573e56f6e","width":3264,"height":2448}]"Û
-[{"URL":"/image/6f30980f6eaf041f408b56868afef7e50c474765","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"6f30980f6eaf041f408b56868afef7e50c474765","width":4032,"height":3024},{"URL":"/image/b73185fa497e8c326e42309acd873fb31f9c1f8e","licence":"CC BY-SA 4.0","media_type":"view","sha1":"b73185fa497e8c326e42309acd873fb31f9c1f8e","width":4032,"height":3024}]"Û
-[{"URL":"/image/cd2f24c46c37b348313effb0393fa8ce0004574c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"cd2f24c46c37b348313effb0393fa8ce0004574c","width":4032,"height":3024},{"URL":"/image/33963a6956c0c549b07bb2e6cf1e136cecfd0260","licence":"CC BY-SA 4.0","media_type":"view","sha1":"33963a6956c0c549b07bb2e6cf1e136cecfd0260","width":4032,"height":3024}]"Û
-[{"URL":"/image/eb8ba8ad9857c69f477c36b917794f0682c4f62f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"eb8ba8ad9857c69f477c36b917794f0682c4f62f","width":3840,"height":2160},{"URL":"/image/04c58c158e6d4906e0782a52ec41dac298b824b7","licence":"CC BY-SA 4.0","media_type":"view","sha1":"04c58c158e6d4906e0782a52ec41dac298b824b7","width":3840,"height":2160}]"Ù
-Ò[{"URL":"/image/0554bad190c7513ad105a172199d7ae708e98851","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"0554bad190c7513ad105a172199d7ae708e98851","width":4608,"height":3456},{"URL":"/image/187178b2e67bc599cc05a993af105628a489f561","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"187178b2e67bc599cc05a993af105628a489f561","width":4608,"height":3456}]"Ù
-Ò[{"URL":"/image/aa0c484ef7fbca6a65c873d441b3f77b54290f9e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"aa0c484ef7fbca6a65c873d441b3f77b54290f9e","width":4032,"height":3024},{"URL":"/image/93761d872acef5fba2c69de2497e4de612a1dda3","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"93761d872acef5fba2c69de2497e4de612a1dda3","width":4032,"height":3024}]"Ù
-Ò[{"URL":"/image/ced3ebd92847d992cd25f582d39e46d890c9c13b","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ced3ebd92847d992cd25f582d39e46d890c9c13b","width":4032,"height":3024},{"URL":"/image/346d35a31fc1f1890332a28a98efd3e4ddb8d6b8","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"346d35a31fc1f1890332a28a98efd3e4ddb8d6b8","width":4032,"height":3024}]"Ù
-Ò[{"URL":"/image/eadafa01ab047144a9ac7e7ac71f7bb9ac131e51","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"eadafa01ab047144a9ac7e7ac71f7bb9ac131e51","width":5312,"height":2988},{"URL":"/image/5f950df5821a4b6b34b99a12ef93e8c7d4033c3a","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"5f950df5821a4b6b34b99a12ef93e8c7d4033c3a","width":5312,"height":2988}]"Ù
-Ò[{"URL":"/image/efc4442d31df4424e0ec9649aeacc4fa334d71df","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"efc4442d31df4424e0ec9649aeacc4fa334d71df","width":4032,"height":3024},{"URL":"/image/c0049ac64b8e4cf3f72a45191771fd6473955a14","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"c0049ac64b8e4cf3f72a45191771fd6473955a14","width":4032,"height":3024}]"Ù
-Ò[{"URL":"/image/f0357da184930df8920da274e577f1e95d5acf8f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f0357da184930df8920da274e577f1e95d5acf8f","width":4096,"height":3072},{"URL":"/image/63f1761146af4be3f7d74185523052245016837a","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"63f1761146af4be3f7d74185523052245016837a","width":4096,"height":3072}]"Ù
-Ò[{"URL":"/image/f1a3d6ba5595ba061bb2014e87069b38883bc648","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f1a3d6ba5595ba061bb2014e87069b38883bc648","width":4032,"height":3024},{"URL":"/image/3cf8e3471937454f00454e1cf435fe633db1b9db","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"3cf8e3471937454f00454e1cf435fe633db1b9db","width":4032,"height":3024}]"Å
-˛[{"URL":"/image/58c5d3f34215bca004640368746b14931f3bc2b4","importURL":"https://www.flickr.com/photos/13408725@N03/19607187984","licence":"CC BY-NC-SA 2.0","media_type":"bench","sha1":"58c5d3f34215bca004640368746b14931f3bc2b4","width":3936,"height":2624}] >{®ÈÑ"	 *  ,áÈÂH"	ÚÏ DìÕê°"	‘®
- Bç∞Ôã"	ä– m©Æ-"	∫¨. M~÷æÕ"	‹¢) 7[ºˇn"	ñ	é) 3rÓÅ_"	Ë	* 6o∏êe"	‘
-“( Nu◊“Õ"	ò
-ƒ) LÉ…˚Ã"	î
-ÿ* )õıŸ="	äÇ2 QzƒØ·"	ºÿ1 S|±¯Â"	 †> Tå»—Ë"	¬ﬁ2 h‚Ô"	∂¯& êÚÔ "	Ó¿' Oú˝æ’"	Ä∫% Pe˘âﬂ"	¿ò( Aa •ã"	ÿ™! 9ö£p"	ËÚ! 8ù¸Ûo"	∏à" ;Ö√Úy"	‡Ä# `≠Ú."	™- bæ∞"	ÿå5 Cë∆—ö"	ñ%ò 
-]˙¨"	‘%Ü ‹˛√"	Ë!∫ @òØÇã"	Æ"Ç j≤ø%"	™!¢ iËü"	Ñ$∂ Ft„â©"	–'™ îﬁ˛2"	⁄$‡ Åÿﬁ2"	‘$Ó ÄΩØ3"	‚$ﬁ sÊá"	∞%“ n≥ù
-"	∂%Ë í¨‹
-"	Ã%Ê 	‘ü"	Œ% K_¯¨Ã"	Í-Ê 'k’Ÿ:"	ä*‰ *ô¥¬>"	“)í c–π)"	≤)ò Z«€#"	º)î Yµ‹)"	∫)¢ 2ÇÔœ^"	î*Ë &Üœ≈8"	Í/  R}“ô‚"	Ê-ƒ :†À÷r"	§.∫ UV—ΩÔ"	˛1ú JXÁÅ¬"	Ä2“ %Ÿ∂ó6"	“7Ù +û˜üF"	∫=æ (g§ﬂ<"	™#¨! qÛ¯1"	ñ!ﬁ% ExßÚ¶"	Ç#î' ¢ª≠)"	∫'≤   Ñ∑Æ4"	¿"ö( !f¶∫4"	⁄"§( "ä¡⁄4"	ò#ƒ( #Ï‡ë5"	≤#¸( $°ÍØ5"	˛#¢) I^˚ú¿"	æ&⁄+ ñ´÷."	û*≤" 4d€ü`"	æ*‡# è¿à"	–!ö2 =àπÛ"	ê,ú1 <é•Ÿ"	¯,Ë1 Wøå"	à+¢: ÌˆŸ'"	¬>æ& Ò‰Ä"	‘>⁄( \Œô"	˛?ê* ãó¢("	¥0¿2 ⁄”ª("	§2¨2 ? ·Æä"	Œ4ƒ1 yÃÿ*"	‘4‘3 5ü∫£c"	∞7¢7 G£Ù©µ"	Ç7î9 1p›ª]"	Ë9Ë> /lÆ·O"	;î? 0Î≈≤P"	˛;Ó? .v™¢O"	ê<ò? -ï¬ÙN"	é<Ë? âÂ¬"	‘@˙) HwﬂÌπ"	îA†=
+[RIGHT]
+In Loving Memory of a Special Son, Beloved Brother, and Cherished Uncle
+YOMI AWOJOBI
+11th March 1972 - 12th April 2001, Rest in Peace."Ø
+¨[LEFT]
+ DONATED BY THE COVENT GARDEN ASSOCIATION
+1986
+
+[CENTRE]
+In memory of
+Eddie Li, Jiaya (28/5/63-10/8/03)
+Who lived life the way he wanted with the people he loved
+ Donated by the Covent Garden musicians   
+
+[RIGHT]
+IN LOVING AND GRATEFUL MEMORY
+JOHN IRELAND WOOD
+ACTOR
+1899 - 1980"Ø
+¨[{"URL":"/image/d0816ed8e4819fe23cbf6d9d04a45e4256cbf0f2","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d0816ed8e4819fe23cbf6d9d04a45e4256cbf0f2","width":1632,"height":1224},{"URL":"/image/8a553c085140263180e0cda8bb3e9d32960441c1","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"8a553c085140263180e0cda8bb3e9d32960441c1","width":1632,"height":1224},{"URL":"/image/d6f9134abf023da7f3acc2aec9285ebf09335e98","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"d6f9134abf023da7f3acc2aec9285ebf09335e98","width":1632,"height":1224}]"≤
+ØIn commemoration of the
+80th Anniversary of the creation of the
+Kingston & District Trade Union Council -
+Dedicated by John Monks
+TUC General Secretary
+5th Novemeber 1999"≤
+ØKENNETH NELSON
+1930         (ACTOR)          1993    
+(TEXAS)                          (LONDON)
+       Life was FANTASTIC      
+                                      NAOMI"∑
+¥[{"URL":"/image/00dd9101a7147773af6076e9c2320762fd5691f1","licence":"CC BY-SA 4.0","media_type":"360","sha1":"00dd9101a7147773af6076e9c2320762fd5691f1","width":5660,"height":2830}]"π
+∂AN ARTIST AMONG ARTISTES
+This seat, which provides a much
+appreciated amenity to the residents
+of Brinsworth House, is dedicated to
+the memory of lan Dudley Hardy
+LOVE FROM JEAN
+üé≠"π
+∂Donna Ellen Stepney
+1973 ~ 2001
+Beautiful Daughter
+Wonderful Sister
+Our Best Friend
+Our Everything
+
+Baby Katie Elizabeth Ellen
+Taken with Mummy
+Safe and Loved Forever
+xxxxx"æ
+ªFor Mary Lou Lancaster of Falmouth, Maine,
+who loves London's gardens
+almost as much as her husband loves her - 
+on the occasion of their fortieth wedding anniversary
+August 21st 1994"ø
+º[{"URL":"/image/07717a27f30de30ab541f911b45f87089cd08555","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"07717a27f30de30ab541f911b45f87089cd08555","width":3840,"height":2160}]"ø
+º[{"URL":"/image/20522a412ec04899799915de82e9554bf54571cc","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"20522a412ec04899799915de82e9554bf54571cc","width":4032,"height":3024}]"ø
+º[{"URL":"/image/35c1898527d03a0d0a128accc1ebfd6bf4dcbda3","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"35c1898527d03a0d0a128accc1ebfd6bf4dcbda3","width":4032,"height":3024}]"ø
+º[{"URL":"/image/45d5e2c8b65558798a5b1d4be96277e903bc8d14","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"45d5e2c8b65558798a5b1d4be96277e903bc8d14","width":2592,"height":1460}]"ø
+º[{"URL":"/image/61be2ba74aa6d47b532fb34bc48a57bd7bcba757","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"61be2ba74aa6d47b532fb34bc48a57bd7bcba757","width":3264,"height":2448}]"ø
+º[{"URL":"/image/68ede81bd0299468962d21151bee9c074eaabb78","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"68ede81bd0299468962d21151bee9c074eaabb78","width":2592,"height":1460}]"ø
+º[{"URL":"/image/7171627eecaf2fe9ea856d0db8c96f7690b9e704","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"7171627eecaf2fe9ea856d0db8c96f7690b9e704","width":3840,"height":2160}]"ø
+º[{"URL":"/image/97321f20eb3741efb10c87d5af37f3415555752d","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"97321f20eb3741efb10c87d5af37f3415555752d","width":4576,"height":2576}]"ø
+º[{"URL":"/image/9e7b69abc109cea78db5bb11a824703c361f2ddc","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9e7b69abc109cea78db5bb11a824703c361f2ddc","width":3840,"height":2160}]"ø
+º[{"URL":"/image/9ecf0ff6a907f05cc39af9eb7c08230e6085985f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9ecf0ff6a907f05cc39af9eb7c08230e6085985f","width":4032,"height":3024}]"ø
+º[{"URL":"/image/a98e5bf6d001f022a84c7d7d1df0e7c1ca95223f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"a98e5bf6d001f022a84c7d7d1df0e7c1ca95223f","width":4160,"height":3120}]"ø
+º[{"URL":"/image/ac31b1e80e7b2748931e7411b0dc576fb9aca5b2","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ac31b1e80e7b2748931e7411b0dc576fb9aca5b2","width":2792,"height":1536}]"ø
+º[{"URL":"/image/aefb4bea7e2974b32fbb6a036b1687d61ed78109","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"aefb4bea7e2974b32fbb6a036b1687d61ed78109","width":4032,"height":3024}]"ø
+º[{"URL":"/image/d0d19509f7cff2dd4fd34c3b1e8a2650f3870790","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d0d19509f7cff2dd4fd34c3b1e8a2650f3870790","width":3120,"height":4160}]"ø
+º[{"URL":"/image/d348877eed744a71602992fb89de4fe3530e75c6","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d348877eed744a71602992fb89de4fe3530e75c6","width":4032,"height":3024}]"ø
+º[{"URL":"/image/d72fe03dccd0800d8adbf74cc106a9d49e9f1f0f","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"d72fe03dccd0800d8adbf74cc106a9d49e9f1f0f","width":4032,"height":2356}]"ø
+º[{"URL":"/image/ed4e8b9e4f1b86e6f57509c2e5c1e3ab170523a0","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ed4e8b9e4f1b86e6f57509c2e5c1e3ab170523a0","width":2592,"height":1460}]"ø
+º[{"URL":"/image/f1a0860222db39f1a05f24f369b0bfd2ef299bcd","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"f1a0860222db39f1a05f24f369b0bfd2ef299bcd","width":4032,"height":3024}]"Ã
+…[{"URL":"/image/b2796c11564447ac6154682c73a4c9df14e49ae3","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"b2796c11564447ac6154682c73a4c9df14e49ae3","width":3180,"height":2385},{"URL":"/image/faf8b352554e4bf88b0f49f38fbbc160cbc2e0af","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"faf8b352554e4bf88b0f49f38fbbc160cbc2e0af","width":4032,"height":3024},{"URL":"/image/530e9712af2a6005a1378def642850d1f0d16562","licence":"CC BY-SA 4.0","media_type":"view","sha1":"530e9712af2a6005a1378def642850d1f0d16562","width":4032,"height":3024},{"URL":"/image/ddcd106e036a8a72a5b6f1c0e510c297df57120e","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"ddcd106e036a8a72a5b6f1c0e510c297df57120e","width":4096,"height":3072},{"URL":"/image/71b2bf625801f9763c64729d4c2cd83112342475","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"71b2bf625801f9763c64729d4c2cd83112342475","width":4096,"height":3072},{"URL":"/image/f7f95bc461b3a6c85b195b2d448ba2a63552e738","licence":"CC BY-SA 4.0","media_type":"view","sha1":"f7f95bc461b3a6c85b195b2d448ba2a63552e738","width":4096,"height":3072}]"œ
+ÃBRIAN BOTTING FRICS 1932 2014
+First Chairman of the Friends of Battersea Park 1990- 1999
+The Hungarian Oak opposite was planted in his memory
+A great servant of the Park with a mischievous sense of fun"—
+Œ[LEFT]
+SAM ROCHE
+LOVING DAUGHTER, SISTER, MOTHER
+TO THE WORLD YOU MAY HAVE BEEN SOMEBODY
+BUT TO US YOU WERE THE WORLD
+
+[RIGHT]
+EMILY LEWIS
+WONDERFUL MOTHER & GRANDMOTHER
+ALWAYS LOVING: ALWAYS LOVED"ﬂ
+‹[{"URL":"/image/d4000e89408adba17adeeafb064469c302197ebb","importURL":"https://www.flickr.com/photos/57868312@N00/15829449592","licence":"CC BY 2.0","media_type":"inscription","sha1":"d4000e89408adba17adeeafb064469c302197ebb","width":1024,"height":681},{"URL":"/image/3c7477572afbe85a0e28554899d4b229094376c1","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"3c7477572afbe85a0e28554899d4b229094376c1","width":3264,"height":2448},{"URL":"/image/5d0857a966da24af54e8dcc7ca2db6b7f860f8f4","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"5d0857a966da24af54e8dcc7ca2db6b7f860f8f4","width":4096,"height":3072},{"URL":"/image/ef734c5938fa9287ce0a2e1c38994b88f8718bba","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"ef734c5938fa9287ce0a2e1c38994b88f8718bba","width":4096,"height":3072},{"URL":"/image/1b5b238e4fa5de921132b4c55ba655ce6ffe7af4","licence":"CC BY-SA 4.0","media_type":"view","sha1":"1b5b238e4fa5de921132b4c55ba655ce6ffe7af4","width":4096,"height":3072}]"‚
+ﬂ[{"URL":"/image/95ad87a9be382e24497d8b22117bc4622d242b1c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"95ad87a9be382e24497d8b22117bc4622d242b1c","width":2016,"height":1512},{"URL":"/image/e0c9266ac898252cc28995cdd40467c3be54749b","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e0c9266ac898252cc28995cdd40467c3be54749b","width":2016,"height":1512},{"URL":"/image/a567d7eca175798381cb2e104ea82da3448779a7","licence":"CC BY-SA 4.0","media_type":"view","sha1":"a567d7eca175798381cb2e104ea82da3448779a7","width":2016,"height":1512},{"URL":"/image/2e33c16c7add2ea79eec722fb65567a57bb79f18","licence":"CC BY-SA 4.0","media_type":"pano","sha1":"2e33c16c7add2ea79eec722fb65567a57bb79f18","width":2016,"height":1512}]"„
+‡[{"URL":"/image/e6e34382e2949184067c102063eaaaee88e7818c","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e6e34382e2949184067c102063eaaaee88e7818c","width":4032,"height":3024},{"URL":"/image/336420aa4bf01589048417196df7dddb7b513b3a","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"336420aa4bf01589048417196df7dddb7b513b3a","width":4032,"height":3024},{"URL":"/image/b8aa8994ebef56d2c6ddbd4916cd783d6df253c7","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"b8aa8994ebef56d2c6ddbd4916cd783d6df253c7","width":4032,"height":3024},{"URL":"/image/c28f09c813bcba0052c9e4f2e433e5ab7ba96669","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c28f09c813bcba0052c9e4f2e433e5ab7ba96669","width":4032,"height":3024}]"Ì
+ÍKhadija Diana May Cohen n√©e Greenstreet
+b 23rd February 1933, Camden Town, d 20th July 1999 in Spain
+Resident of Tavistock Court,
+Graduate of the School of Oriental & African Studies.
+Beloved wife, mother, grandmother and friend."Ó
+ÎThis bench is dedicated to the memory of
+Lt Mark Evison Welsh Guards
+killed by enemy action in
+Helmand Province Afghanistan
+on 12th May 2009
+aged 26
+A man of great courage, compassion,
+distinction and charm. Farewell great heart"Û
+[{"URL":"/image/1fd357c83891b90839a4cc675873ae54d82687d8","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"1fd357c83891b90839a4cc675873ae54d82687d8","width":2592,"height":1460},{"URL":"/image/16e5b1814d3d759e0ab4691ebabf88274307276b","licence":"CC BY-SA 4.0","media_type":"view","sha1":"16e5b1814d3d759e0ab4691ebabf88274307276b","width":2592,"height":1460}]"Û
+[{"URL":"/image/dbd0cd94508bf68238b3da191ce15295a888e4df","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"dbd0cd94508bf68238b3da191ce15295a888e4df","width":3264,"height":2448},{"URL":"/image/c1f3e2491f5bf45006262b56a175af90b6dc946c","licence":"CC BY-SA 4.0","media_type":"view","sha1":"c1f3e2491f5bf45006262b56a175af90b6dc946c","width":3264,"height":2448}]"Ù
+Ò[{"URL":"/image/459055d493181406f4d4845d07f5585a9313e8d8","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"459055d493181406f4d4845d07f5585a9313e8d8","width":4032,"height":3024},{"URL":"/image/25ac2c8e75b34061439e130c6c87362223fc42fb","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"25ac2c8e75b34061439e130c6c87362223fc42fb","width":4032,"height":3024}]"Ù
+Ò[{"URL":"/image/597d69dbd6571b265920acf1d46c356fc8088284","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"597d69dbd6571b265920acf1d46c356fc8088284","width":4032,"height":3024},{"URL":"/image/f3d87f1fb1cb95a7c2c10bc6c2af402326cc9587","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"f3d87f1fb1cb95a7c2c10bc6c2af402326cc9587","width":4032,"height":3024}]"Ù
+Ò[{"URL":"/image/5c194a85eadf882d5555483b32949e6b315abe7d","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"5c194a85eadf882d5555483b32949e6b315abe7d","width":3264,"height":2448},{"URL":"/image/0f2373b5575672b02b63689a208b5f1809722e00","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"0f2373b5575672b02b63689a208b5f1809722e00","width":3264,"height":2448}]"Ù
+Ò[{"URL":"/image/9107aa0e2aaaa9abca428682087b4e03ea355746","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"9107aa0e2aaaa9abca428682087b4e03ea355746","width":4000,"height":3000},{"URL":"/image/181fed8500427e01768d30a1cc94a4279ddafded","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"181fed8500427e01768d30a1cc94a4279ddafded","width":4000,"height":3000}]"Ù
+Ò[{"URL":"/image/91392f7f967010a8f96369999775c28f2f6f928a","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"91392f7f967010a8f96369999775c28f2f6f928a","width":4032,"height":3024},{"URL":"/image/01b9a3bf1255c8cad7eeb1082640a3eecc0bf2b0","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"01b9a3bf1255c8cad7eeb1082640a3eecc0bf2b0","width":4032,"height":3024}]"Ù
+Ò[{"URL":"/image/c5f710c48cc1a877660979ca878c60bdf99f52cd","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"c5f710c48cc1a877660979ca878c60bdf99f52cd","width":4000,"height":3000},{"URL":"/image/a3cde8cea3aee5258d0ba6f399178ca9a2b5fdba","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"a3cde8cea3aee5258d0ba6f399178ca9a2b5fdba","width":4000,"height":3000}]"Ù
+Ò[{"URL":"/image/e7ac3168c65aa4f0938692573dcfe4f77d17c0a3","licence":"CC BY-SA 4.0","media_type":"inscription","sha1":"e7ac3168c65aa4f0938692573dcfe4f77d17c0a3","width":4032,"height":3024},{"URL":"/image/45aaf75baa4080275dd8adeaae495c1758d37b48","licence":"CC BY-SA 4.0","media_type":"bench","sha1":"45aaf75baa4080275dd8adeaae495c1758d37b48","width":4032,"height":3024}]"ˆ
+ÛDesigned & created by Artist Blacksmith
+Fred Suffield and hand forged by his team
+of craftsmen at Anwick Forge, Lincolnshire.
+Funded by The Trustees of Grandey's Place,
+Heritage Craft Centre, nr Much Hadham, Herts,
+with the help of the Heritage Crafts Association,
+to say "Thank You' to the NHS and Key Workers,
+who have given so much during the
+Pandemic of 2020."Å
+˛[{"URL":"/image/8978bcbb902932bf4b7e82c29878dd87ac890e5d","importURL":"https://www.flickr.com/photos/57868312@N00/28103423315","licence":"CC BY 2.0","media_type":"inscription","sha1":"8978bcbb902932bf4b7e82c29878dd87ac890e5d","width":3264,"height":2448}] 6{•ÈÑ"	 *  %r≈·H"	òƒ ;êÕé°"	∏¿
+ 3z∆ûy"	Ï∫ YÀ≥-"	‹Ï- Iw∑∞Õ"	ƒº) Eqªõπ"	Ë	 ( HW…°Õ"	¬Ã* Ge§„Ã"	Œ
+‘( /xÏíe"	¢
+¨) DX∫Ò∏"	∫§( A◊û¯Ø"	>ä3 Os√´·"	ö®1 N_∂Í‡"	ŒÜ> &òË©I"	≤	Ñ0 M‘˘˛ﬁ"	î®= ï‡Å!"	Ã≤' LÜˆ∑’"	‹ú# PèÆÅ‚"	ä * CyÎí≥"	¢¥! 1Ä£ôp"	ËÚ! BÅÈã≥"	àÓ! fÙº2"	å‰! 0 °ºf"	™Ú+ Rbµ‹È"	»å8 "}¸˘6"	‹$¿
+ >~†‚™"	Ó% -—∞S"	ú-ò Un˚¶Ò"	î"˙ $[¨<"	é ¥ JÇ¢ºœ"	Ü$î a©ù)"	é%Ó j¯’0"	∏$ê àƒ¸2"	–$‚ â¿„2"	‘$ u¶ñ
+"	¨%‹ 	Ÿ¥ë"	¿%÷ ]≠·
+"	»%‚ ‰Ì
+"	»% Fl˙¥Ã"	û-∏ 
+ÚÁ˝"	¬(ú @úºä≠"	¢)¢ õÔˆ"	‰)¢ îπﬂ)"	∏)û “ù˜)"	Æ)¢ Z˛Ä	"	ö+∆ #Ó≥Ã8"	÷,⁄ Q˝±•‚"	Ê-∫ +ó«ºQ"	¢.ÿ SdΩÃÍ"	ÿ1º Ñ÷Ö"	¢1¬  |›∆6"	˙7Ñ !Vﬂœ6"	™:ˆ tßí
+"	˙#‘  cıÄ2"	ú!–% =ÖæÊ¶"	ÿ"Ó' ’·•)"	à'à  Ìœ∂4"	∂"Ñ( iÃù4"	∆"ò( ^⁄«4"	ò#í( <k´‘¶"	§#¬( m¬æ5"	Ú#¶) –‚¶5"	ú$†) ,\∞√Q"	ö+§  ç∏ ."	¨*∫" åÍë6"	é/∆, 5í –"	¿,˛0 7É‹ïà"	Ã,¥1 .éÊ]"	Œ*ƒ9 :ô€®é"	ö9∆& Tëü“Ó"	à;ò. ?o≤È¨"	Ã?˛) 8Û®Îà"	∏0Ù0 vØ©*"	ƒ1 2 ä”ˆ5"	æ3∞7 ñ»«*"	ÿ4–3 9á¡≤ä"	Ê4∞5 2hÂÿw"	¨4ê: Kã„—”"	ˆ9¨> )pŒºO"	¸;¸> *öøÇP"	ˆ;ƒ? 4ì™Ë~"	 =û: (ÿÒòO"	¨<∏? `ﬁœ"	‚@í) 'g˜õM"	¸@‡/
