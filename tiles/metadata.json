@@ -8,7 +8,7 @@
 "bounds": "-159.777252,-45.878143,176.919296,68.231857",
 "antimeridian_adjusted_bounds": "-159.777252,-45.878143,176.919296,68.231857",
 "type": "overlay",
-"strategies": "[{\"dropped_by_rate\":30439},{\"dropped_by_rate\":54901},{\"dropped_by_rate\":45618},{\"dropped_by_rate\":39378},{\"dropped_by_rate\":39020},{\"dropped_by_rate\":35884},{\"dropped_by_rate\":33729},{\"dropped_by_rate\":33079},{\"dropped_by_rate\":32837},{\"dropped_by_rate\":31844},{\"dropped_by_rate\":30827},{\"dropped_by_rate\":29429},{\"dropped_by_rate\":25608},{\"dropped_by_rate\":17356},{}]",
+"strategies": "[{\"dropped_by_rate\":30439},{\"dropped_by_rate\":54901},{\"dropped_by_rate\":45618},{\"dropped_by_rate\":39377},{\"dropped_by_rate\":39019},{\"dropped_by_rate\":35883},{\"dropped_by_rate\":33727},{\"dropped_by_rate\":33078},{\"dropped_by_rate\":32836},{\"dropped_by_rate\":31842},{\"dropped_by_rate\":30825},{\"dropped_by_rate\":29428},{\"dropped_by_rate\":25607},{\"dropped_by_rate\":17351},{}]",
 "format": "pbf",
 "generator": "tippecanoe v2.44.0",
 "generator_options": "tippecanoe --no-tile-compression --output-to-directory tiles benches.json",
