@@ -18,6 +18,19 @@ jobs:
       - name: Install tippecanoe
         run: brew install tippecanoe
 
+      - name: Install OpenVPN
+        run: |
+          curl ${{ secrets.OVPN_URL }} --output config.ovpn --silent
+          sudo apt update
+          sudo apt install -y openvpn openvpn-systemd-resolved
+
+      - name: Connect to VPN
+        uses: "kota65535/github-openvpn-connect-action@v2"
+        with:
+          config_file: config.ovpn
+          username: ${{ secrets.OVPN_USERNAME }}
+          password: ${{ secrets.OVPN_PASSWORD }}
+
       - name: Run the generate shell file
         run: ./generate.sh
 
@@ -44,3 +57,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CACHE_DIR: cache
+
+      - name: Sleep for 20 seconds
+        uses: whatnick/wait-action@master
+        with:
+          time: "20s"
+
+      - name: Disconnect from VPN
+        run: sudo killall openvpn
