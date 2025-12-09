@@ -1,9 +1,9 @@
-2025-12-08 00:50:07 DEPRECATED OPTION: --cipher set to 'aes-128-cbc' but missing in --data-ciphers (AES-256-GCM:AES-128-GCM:CHACHA20-POLY1305). OpenVPN ignores --cipher for cipher negotiations. 
-2025-12-08 00:50:07 WARNING: file 'up.txt' is group or others accessible
-2025-12-08 00:50:07 OpenVPN 2.6.14 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] [DCO]
-2025-12-08 00:50:07 library versions: OpenSSL 3.0.13 30 Jan 2024, LZO 2.10
-2025-12-08 00:50:07 DCO version: N/A
-2025-12-08 00:50:07 CRL: loaded 1 CRLs from file -----BEGIN X509 CRL-----
+2025-12-09 00:49:18 DEPRECATED OPTION: --cipher set to 'aes-128-cbc' but missing in --data-ciphers (AES-256-GCM:AES-128-GCM:CHACHA20-POLY1305). OpenVPN ignores --cipher for cipher negotiations. 
+2025-12-09 00:49:18 WARNING: file 'up.txt' is group or others accessible
+2025-12-09 00:49:18 OpenVPN 2.6.14 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] [DCO]
+2025-12-09 00:49:18 library versions: OpenSSL 3.0.13 30 Jan 2024, LZO 2.10
+2025-12-09 00:49:18 DCO version: N/A
+2025-12-09 00:49:18 CRL: loaded 1 CRLs from file -----BEGIN X509 CRL-----
 MIICWDCCAUAwDQYJKoZIhvcNAQENBQAwgegxCzAJBgNVBAYTAlVTMQswCQYDVQQI
 EwJDQTETMBEGA1UEBxMKTG9zQW5nZWxlczEgMB4GA1UEChMXUHJpdmF0ZSBJbnRl
 cm5ldCBBY2Nlc3MxIDAeBgNVBAsTF1ByaXZhdGUgSW50ZXJuZXQgQWNjZXNzMSAw
@@ -19,15 +19,15 @@ ze7AP+NQ9ykvDScH4eYCsmufNpIjBLhpLE2cuZZXBLcPhuRzVoU3l7A9lvzG9mjA
 MR6jC0K2ps9qyZAN74LEBedEfK7tBOzWMwr58A==
 -----END X509 CRL-----
 
-2025-12-08 00:50:07 TCP/UDP: Preserving recently used remote address: [AF_INET]158.173.23.97:1198
-2025-12-08 00:50:07 UDPv4 link local: (not bound)
-2025-12-08 00:50:07 UDPv4 link remote: [AF_INET]158.173.23.97:1198
-2025-12-08 00:50:07 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
-2025-12-08 00:50:08 [london402] Peer Connection Initiated with [AF_INET]158.173.23.97:1198
-2025-12-08 00:50:08 sitnl_send: rtnl: generic error (-101): Network is unreachable
-2025-12-08 00:50:08 TUN/TAP device tun0 opened
-2025-12-08 00:50:08 net_iface_mtu_set: mtu 1500 for tun0
-2025-12-08 00:50:08 net_iface_up: set tun0 up
-2025-12-08 00:50:08 net_addr_v4_add: 10.10.112.183/24 dev tun0
-2025-12-08 00:50:08 WARNING: OpenVPN was configured to add an IPv6 route. However, no IPv6 has been configured for tun0, therefore the route installation may fail or may not work as expected.
-2025-12-08 00:50:08 Initialization Sequence Completed
+2025-12-09 00:49:18 TCP/UDP: Preserving recently used remote address: [AF_INET]158.173.23.92:1198
+2025-12-09 00:49:18 UDPv4 link local: (not bound)
+2025-12-09 00:49:18 UDPv4 link remote: [AF_INET]158.173.23.92:1198
+2025-12-09 00:49:18 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
+2025-12-09 00:49:20 [london402] Peer Connection Initiated with [AF_INET]158.173.23.92:1198
+2025-12-09 00:49:20 sitnl_send: rtnl: generic error (-101): Network is unreachable
+2025-12-09 00:49:20 TUN/TAP device tun0 opened
+2025-12-09 00:49:20 net_iface_mtu_set: mtu 1500 for tun0
+2025-12-09 00:49:20 net_iface_up: set tun0 up
+2025-12-09 00:49:20 net_addr_v4_add: 10.5.112.215/24 dev tun0
+2025-12-09 00:49:20 WARNING: OpenVPN was configured to add an IPv6 route. However, no IPv6 has been configured for tun0, therefore the route installation may fail or may not work as expected.
+2025-12-09 00:49:20 Initialization Sequence Completed
