@@ -1,0 +1,46 @@
+name: Generate tiles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Homebrew
+        id: set-up-homebrew
+        uses: Homebrew/actions/setup-homebrew@master
+
+      - name: Install tippecanoe
+        run: brew install tippecanoe
+
+      - name: Run the generate shell file
+        run: ./generate.sh
+
+      - name: check for changes
+        run: git status
+
+      - name: commit changed files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Auto update of benches data"
+
+      - name: fetch from main
+        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+
+      - name: push code to main
+        run: git push origin HEAD:main
+
+      - name: Deploy tiles into a gh pages branch
+        run: |
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          npx gh-pages -d tiles -u "github-actions-bot <support+actions@github.com>" --cname openbenches.librarydata.uk --no-history
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CACHE_DIR: cache
